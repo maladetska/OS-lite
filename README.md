@@ -1,1 +1,1 @@
-# os-light
+# OS-light
