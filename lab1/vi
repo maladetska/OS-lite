@@ -1,9 +1,0 @@
-#!/bin/bash
-
-in="/var/log/anaconda/X.log"
-out="full.log"
-
-sudo grep -E "\] \(WW\)" $in | sed "s/(WW)/Warning:/g" > $out
-sudo grep -E "\] \(II\)" $in | sed "s/(II)/Information:/g" >> $out
-
-cat $out
