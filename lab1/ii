@@ -1,0 +1,12 @@
+#!/bin/bash
+
+str=""
+res=""
+
+while [[ $str != "q" ]]
+do
+	res=$res$str
+	read str
+done
+
+echo $res
