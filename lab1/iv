@@ -1,11 +1,11 @@
-#! /bin/bash
+#!/bin/bash
 
 if [[ $PWD == $HOME ]]
 then
-	echo "Here is the home directory:" 
+	echo 'Here is the home directory:'
 	echo $PWD
 	exit 0
 fi
 
-echo "Not a home directory" 
+echo 'Not a home directory' 
 exit 1
