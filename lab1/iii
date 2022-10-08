@@ -1,16 +1,16 @@
 #! /bin/bash
 
-echo "----------"
-echo "MENU:"
-echo "1 -> nano"
-echo "2 -> vi"
-echo "3 -> links"
-echo "4 -> exit"
-echo "----------"
+echo '----------'
+echo 'MENU:'
+echo '1 -> nano'
+echo '2 -> vi'
+echo '3 -> links'
+echo '4 -> exit'
+echo '----------'
 
 read item
 
-while [[ $item != "4" ]]  
+while [[ $item != '4' ]]  
 do
 case $item in
 1 )
