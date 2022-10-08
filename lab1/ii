@@ -1,9 +1,9 @@
 #!/bin/bash
 
-str=""
-res=""
+str=''
+res=''
 
-while [[ $str != "q" ]]
+while [[ $str != 'q' ]]
 do
 	res=$res$str
 	read str
