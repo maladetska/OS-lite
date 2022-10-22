@@ -1,0 +1,5 @@
+#!/bin/bash
+
+output="ii.out"
+
+ps ax | grep /sbin | awk '{print $1}' > $output
