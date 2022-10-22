@@ -1,0 +1,213 @@
+ProcessID = 1 : Parent_ProcessID = 0 : Avarage_Running_Time = 0,209557.
+ProcessID = 2 : Parent_ProcessID = 0 : Avarage_Running_Time = 0,013245.
+Average_Running_Children_of_ParentID = 0 is 0,111401
+ProcessID = 1032 : Parent_ProcessID = 1 : Avarage_Running_Time = 0,342105.
+ProcessID = 1162 : Parent_ProcessID = 1 : Avarage_Running_Time = 0,0895238.
+ProcessID = 1349 : Parent_ProcessID = 1 : Avarage_Running_Time = 0,42029.
+ProcessID = 1409 : Parent_ProcessID = 1 : Avarage_Running_Time = 0,379186.
+ProcessID = 1426 : Parent_ProcessID = 1 : Avarage_Running_Time = 0,0180995.
+ProcessID = 2070 : Parent_ProcessID = 1 : Avarage_Running_Time = 0,370014.
+ProcessID = 224 : Parent_ProcessID = 1 : Avarage_Running_Time = 0,160627.
+ProcessID = 269 : Parent_ProcessID = 1 : Avarage_Running_Time = 0,220264.
+ProcessID = 439 : Parent_ProcessID = 1 : Avarage_Running_Time = 0,390313.
+ProcessID = 440 : Parent_ProcessID = 1 : Avarage_Running_Time = 0,707447.
+ProcessID = 441 : Parent_ProcessID = 1 : Avarage_Running_Time = 0,987013.
+ProcessID = 537 : Parent_ProcessID = 1 : Avarage_Running_Time = 0,240602.
+ProcessID = 538 : Parent_ProcessID = 1 : Avarage_Running_Time = 0,0652174.
+ProcessID = 539 : Parent_ProcessID = 1 : Avarage_Running_Time = 0,285714.
+ProcessID = 542 : Parent_ProcessID = 1 : Avarage_Running_Time = 0,143266.
+ProcessID = 544 : Parent_ProcessID = 1 : Avarage_Running_Time = 0,357143.
+ProcessID = 546 : Parent_ProcessID = 1 : Avarage_Running_Time = 0,113459.
+ProcessID = 548 : Parent_ProcessID = 1 : Avarage_Running_Time = 0,0668335.
+ProcessID = 562 : Parent_ProcessID = 1 : Avarage_Running_Time = 0,683398.
+ProcessID = 565 : Parent_ProcessID = 1 : Avarage_Running_Time = 0,0727612.
+ProcessID = 571 : Parent_ProcessID = 1 : Avarage_Running_Time = 0,216667.
+ProcessID = 577 : Parent_ProcessID = 1 : Avarage_Running_Time = 0,407407.
+ProcessID = 585 : Parent_ProcessID = 1 : Avarage_Running_Time = 0,945687.
+ProcessID = 586 : Parent_ProcessID = 1 : Avarage_Running_Time = 1,17021.
+ProcessID = 591 : Parent_ProcessID = 1 : Avarage_Running_Time = 0,201483.
+ProcessID = 595 : Parent_ProcessID = 1 : Avarage_Running_Time = 0,411494.
+ProcessID = 598 : Parent_ProcessID = 1 : Avarage_Running_Time = 0,354167.
+ProcessID = 647 : Parent_ProcessID = 1 : Avarage_Running_Time = 0,493023.
+ProcessID = 656 : Parent_ProcessID = 1 : Avarage_Running_Time = 0,371795.
+ProcessID = 685 : Parent_ProcessID = 1 : Avarage_Running_Time = 0,877049.
+ProcessID = 701 : Parent_ProcessID = 1 : Avarage_Running_Time = 0,15873.
+ProcessID = 773 : Parent_ProcessID = 1 : Avarage_Running_Time = 0,1125.
+ProcessID = 784 : Parent_ProcessID = 1 : Avarage_Running_Time = 0,111111.
+ProcessID = 786 : Parent_ProcessID = 1 : Avarage_Running_Time = 0.
+ProcessID = 870 : Parent_ProcessID = 1 : Avarage_Running_Time = 0,146067.
+Average_Running_Children_of_ParentID = 1 is 0,345448
+ProcessID = 100 : Parent_ProcessID = 2 : Avarage_Running_Time = 0,0488323.
+ProcessID = 101 : Parent_ProcessID = 2 : Avarage_Running_Time = 0,157895.
+ProcessID = 109 : Parent_ProcessID = 2 : Avarage_Running_Time = 0.
+ProcessID = 10 : Parent_ProcessID = 2 : Avarage_Running_Time = 0.
+ProcessID = 112 : Parent_ProcessID = 2 : Avarage_Running_Time = 0.
+ProcessID = 113 : Parent_ProcessID = 2 : Avarage_Running_Time = 0.
+ProcessID = 118 : Parent_ProcessID = 2 : Avarage_Running_Time = 0.
+ProcessID = 11 : Parent_ProcessID = 2 : Avarage_Running_Time = 0.
+ProcessID = 12 : Parent_ProcessID = 2 : Avarage_Running_Time = 0.
+ProcessID = 13 : Parent_ProcessID = 2 : Avarage_Running_Time = 0,025059.
+ProcessID = 14 : Parent_ProcessID = 2 : Avarage_Running_Time = 0,0328665.
+ProcessID = 157 : Parent_ProcessID = 2 : Avarage_Running_Time = 0,352941.
+ProcessID = 159 : Parent_ProcessID = 2 : Avarage_Running_Time = 0.
+ProcessID = 15 : Parent_ProcessID = 2 : Avarage_Running_Time = 0,538462.
+ProcessID = 16 : Parent_ProcessID = 2 : Avarage_Running_Time = 0.
+ProcessID = 17 : Parent_ProcessID = 2 : Avarage_Running_Time = 0,173333.
+ProcessID = 183 : Parent_ProcessID = 2 : Avarage_Running_Time = 0,123188.
+ProcessID = 184 : Parent_ProcessID = 2 : Avarage_Running_Time = 0.
+ProcessID = 18 : Parent_ProcessID = 2 : Avarage_Running_Time = 0.
+ProcessID = 19 : Parent_ProcessID = 2 : Avarage_Running_Time = 0.
+ProcessID = 20 : Parent_ProcessID = 2 : Avarage_Running_Time = 0.
+ProcessID = 21 : Parent_ProcessID = 2 : Avarage_Running_Time = 0,0217391.
+ProcessID = 22 : Parent_ProcessID = 2 : Avarage_Running_Time = 0.
+ProcessID = 23 : Parent_ProcessID = 2 : Avarage_Running_Time = 0.
+ProcessID = 248 : Parent_ProcessID = 2 : Avarage_Running_Time = 0.
+ProcessID = 24 : Parent_ProcessID = 2 : Avarage_Running_Time = 0.
+ProcessID = 252 : Parent_ProcessID = 2 : Avarage_Running_Time = 0,0712209.
+ProcessID = 253 : Parent_ProcessID = 2 : Avarage_Running_Time = 0.
+ProcessID = 254 : Parent_ProcessID = 2 : Avarage_Running_Time = 0.
+ProcessID = 259 : Parent_ProcessID = 2 : Avarage_Running_Time = 0.
+ProcessID = 25 : Parent_ProcessID = 2 : Avarage_Running_Time = 0,0414201.
+ProcessID = 261 : Parent_ProcessID = 2 : Avarage_Running_Time = 0,105364.
+ProcessID = 262 : Parent_ProcessID = 2 : Avarage_Running_Time = 0.
+ProcessID = 263 : Parent_ProcessID = 2 : Avarage_Running_Time = 0.
+ProcessID = 264 : Parent_ProcessID = 2 : Avarage_Running_Time = 0.
+ProcessID = 2655 : Parent_ProcessID = 2 : Avarage_Running_Time = 0.
+ProcessID = 265 : Parent_ProcessID = 2 : Avarage_Running_Time = 0.
+ProcessID = 266 : Parent_ProcessID = 2 : Avarage_Running_Time = 0.
+ProcessID = 267 : Parent_ProcessID = 2 : Avarage_Running_Time = 0.
+ProcessID = 268 : Parent_ProcessID = 2 : Avarage_Running_Time = 0.
+ProcessID = 26 : Parent_ProcessID = 2 : Avarage_Running_Time = 0.
+ProcessID = 271 : Parent_ProcessID = 2 : Avarage_Running_Time = 0.
+ProcessID = 27 : Parent_ProcessID = 2 : Avarage_Running_Time = 0.
+ProcessID = 360 : Parent_ProcessID = 2 : Avarage_Running_Time = 0.
+ProcessID = 3 : Parent_ProcessID = 2 : Avarage_Running_Time = 0.
+ProcessID = 4 : Parent_ProcessID = 2 : Avarage_Running_Time = 0.
+ProcessID = 5 : Parent_ProcessID = 2 : Avarage_Running_Time = 0.
+ProcessID = 6 : Parent_ProcessID = 2 : Avarage_Running_Time = 0,0729167.
+ProcessID = 73 : Parent_ProcessID = 2 : Avarage_Running_Time = 0.
+ProcessID = 74 : Parent_ProcessID = 2 : Avarage_Running_Time = 0.
+ProcessID = 75 : Parent_ProcessID = 2 : Avarage_Running_Time = 0.
+ProcessID = 76 : Parent_ProcessID = 2 : Avarage_Running_Time = 0.
+ProcessID = 77 : Parent_ProcessID = 2 : Avarage_Running_Time = 0.
+ProcessID = 78 : Parent_ProcessID = 2 : Avarage_Running_Time = 0.
+ProcessID = 79 : Parent_ProcessID = 2 : Avarage_Running_Time = 0.
+ProcessID = 7 : Parent_ProcessID = 2 : Avarage_Running_Time = 0.
+ProcessID = 80 : Parent_ProcessID = 2 : Avarage_Running_Time = 0.
+ProcessID = 81 : Parent_ProcessID = 2 : Avarage_Running_Time = 0.
+ProcessID = 82 : Parent_ProcessID = 2 : Avarage_Running_Time = 0,248456.
+ProcessID = 84 : Parent_ProcessID = 2 : Avarage_Running_Time = 0,913295.
+ProcessID = 85 : Parent_ProcessID = 2 : Avarage_Running_Time = 0.
+ProcessID = 87 : Parent_ProcessID = 2 : Avarage_Running_Time = 0.
+ProcessID = 88 : Parent_ProcessID = 2 : Avarage_Running_Time = 0.
+ProcessID = 89 : Parent_ProcessID = 2 : Avarage_Running_Time = 0,0857143.
+ProcessID = 8 : Parent_ProcessID = 2 : Avarage_Running_Time = 0,0978916.
+ProcessID = 90 : Parent_ProcessID = 2 : Avarage_Running_Time = 6,75.
+ProcessID = 91 : Parent_ProcessID = 2 : Avarage_Running_Time = 0.
+ProcessID = 92 : Parent_ProcessID = 2 : Avarage_Running_Time = 0,244898.
+ProcessID = 93 : Parent_ProcessID = 2 : Avarage_Running_Time = 0.
+ProcessID = 94 : Parent_ProcessID = 2 : Avarage_Running_Time = 0,219858.
+ProcessID = 95 : Parent_ProcessID = 2 : Avarage_Running_Time = 0.
+ProcessID = 96 : Parent_ProcessID = 2 : Avarage_Running_Time = 0,078487.
+ProcessID = 97 : Parent_ProcessID = 2 : Avarage_Running_Time = 0.
+ProcessID = 98 : Parent_ProcessID = 2 : Avarage_Running_Time = 0.
+ProcessID = 9 : Parent_ProcessID = 2 : Avarage_Running_Time = 0,11651.
+Average_Running_Children_of_ParentID = 2 is 0,140271
+ProcessID = 634 : Parent_ProcessID = 542 : Avarage_Running_Time = 0.
+Average_Running_Children_of_ParentID = 542 is 0
+ProcessID = 702 : Parent_ProcessID = 656 : Avarage_Running_Time = 0,529412.
+ProcessID = 706 : Parent_ProcessID = 656 : Avarage_Running_Time = 0,692308.
+ProcessID = 710 : Parent_ProcessID = 656 : Avarage_Running_Time = 0,833333.
+ProcessID = 714 : Parent_ProcessID = 656 : Avarage_Running_Time = 1,14286.
+ProcessID = 726 : Parent_ProcessID = 656 : Avarage_Running_Time = 0,818182.
+Average_Running_Children_of_ParentID = 656 is 0,803219
+ProcessID = 1396 : Parent_ProcessID = 701 : Avarage_Running_Time = 0,504.
+Average_Running_Children_of_ParentID = 701 is 0,504
+ProcessID = 1445 : Parent_ProcessID = 1396 : Avarage_Running_Time = 0,2.
+Average_Running_Children_of_ParentID = 1396 is 0,2
+ProcessID = 1410 : Parent_ProcessID = 1409 : Avarage_Running_Time = 0.
+ProcessID = 1416 : Parent_ProcessID = 1409 : Avarage_Running_Time = 0,0922509.
+ProcessID = 1417 : Parent_ProcessID = 1409 : Avarage_Running_Time = 0,078125.
+ProcessID = 1418 : Parent_ProcessID = 1409 : Avarage_Running_Time = 0,311377.
+ProcessID = 1419 : Parent_ProcessID = 1409 : Avarage_Running_Time = 0,563458.
+ProcessID = 1430 : Parent_ProcessID = 1409 : Avarage_Running_Time = 0,0623198.
+ProcessID = 1432 : Parent_ProcessID = 1409 : Avarage_Running_Time = 0,128571.
+ProcessID = 1437 : Parent_ProcessID = 1409 : Avarage_Running_Time = 0,666667.
+ProcessID = 1468 : Parent_ProcessID = 1409 : Avarage_Running_Time = 0,015873.
+ProcessID = 1472 : Parent_ProcessID = 1409 : Avarage_Running_Time = 0,185185.
+ProcessID = 1504 : Parent_ProcessID = 1409 : Avarage_Running_Time = 1,08625.
+ProcessID = 1524 : Parent_ProcessID = 1409 : Avarage_Running_Time = 0,8.
+ProcessID = 1536 : Parent_ProcessID = 1409 : Avarage_Running_Time = 0,179361.
+ProcessID = 1550 : Parent_ProcessID = 1409 : Avarage_Running_Time = 0,267016.
+ProcessID = 1557 : Parent_ProcessID = 1409 : Avarage_Running_Time = 0,091954.
+ProcessID = 1564 : Parent_ProcessID = 1409 : Avarage_Running_Time = 0,0833333.
+ProcessID = 1570 : Parent_ProcessID = 1409 : Avarage_Running_Time = 0,633194.
+ProcessID = 1573 : Parent_ProcessID = 1409 : Avarage_Running_Time = 1,27907.
+ProcessID = 1594 : Parent_ProcessID = 1409 : Avarage_Running_Time = 0,545455.
+ProcessID = 1596 : Parent_ProcessID = 1409 : Avarage_Running_Time = 0,105882.
+ProcessID = 1602 : Parent_ProcessID = 1409 : Avarage_Running_Time = 0,0941176.
+ProcessID = 1655 : Parent_ProcessID = 1409 : Avarage_Running_Time = 0,232727.
+ProcessID = 1662 : Parent_ProcessID = 1409 : Avarage_Running_Time = 0,358079.
+ProcessID = 1670 : Parent_ProcessID = 1409 : Avarage_Running_Time = 0,257235.
+ProcessID = 1677 : Parent_ProcessID = 1409 : Avarage_Running_Time = 0,25.
+ProcessID = 1684 : Parent_ProcessID = 1409 : Avarage_Running_Time = 0,333333.
+ProcessID = 1699 : Parent_ProcessID = 1409 : Avarage_Running_Time = 0,0586011.
+ProcessID = 1703 : Parent_ProcessID = 1409 : Avarage_Running_Time = 0,236559.
+ProcessID = 1724 : Parent_ProcessID = 1409 : Avarage_Running_Time = 0,666667.
+ProcessID = 1726 : Parent_ProcessID = 1409 : Avarage_Running_Time = 0,101351.
+ProcessID = 1735 : Parent_ProcessID = 1409 : Avarage_Running_Time = 0,666667.
+ProcessID = 1736 : Parent_ProcessID = 1409 : Avarage_Running_Time = 0,0606061.
+ProcessID = 1737 : Parent_ProcessID = 1409 : Avarage_Running_Time = 0,269022.
+ProcessID = 1738 : Parent_ProcessID = 1409 : Avarage_Running_Time = 0,4.
+ProcessID = 1739 : Parent_ProcessID = 1409 : Avarage_Running_Time = 0,12844.
+ProcessID = 1748 : Parent_ProcessID = 1409 : Avarage_Running_Time = 0,399015.
+ProcessID = 1749 : Parent_ProcessID = 1409 : Avarage_Running_Time = 0,194981.
+ProcessID = 1750 : Parent_ProcessID = 1409 : Avarage_Running_Time = 0,164666.
+ProcessID = 1751 : Parent_ProcessID = 1409 : Avarage_Running_Time = 0,197183.
+ProcessID = 1757 : Parent_ProcessID = 1409 : Avarage_Running_Time = 0,0656934.
+ProcessID = 1759 : Parent_ProcessID = 1409 : Avarage_Running_Time = 0,0638298.
+ProcessID = 1760 : Parent_ProcessID = 1409 : Avarage_Running_Time = 0,0915493.
+ProcessID = 1761 : Parent_ProcessID = 1409 : Avarage_Running_Time = 0,0721649.
+ProcessID = 1762 : Parent_ProcessID = 1409 : Avarage_Running_Time = 0,173913.
+ProcessID = 1766 : Parent_ProcessID = 1409 : Avarage_Running_Time = 0,534091.
+ProcessID = 1816 : Parent_ProcessID = 1409 : Avarage_Running_Time = 0,0571429.
+ProcessID = 1852 : Parent_ProcessID = 1409 : Avarage_Running_Time = 0,5.
+ProcessID = 1892 : Parent_ProcessID = 1409 : Avarage_Running_Time = 0,190441.
+ProcessID = 1950 : Parent_ProcessID = 1409 : Avarage_Running_Time = 0,316062.
+ProcessID = 1998 : Parent_ProcessID = 1409 : Avarage_Running_Time = 0,555556.
+ProcessID = 2071 : Parent_ProcessID = 1409 : Avarage_Running_Time = 0,263158.
+ProcessID = 2102 : Parent_ProcessID = 1409 : Avarage_Running_Time = 0,437107.
+ProcessID = 2301 : Parent_ProcessID = 1409 : Avarage_Running_Time = 0,513761.
+ProcessID = 2349 : Parent_ProcessID = 1409 : Avarage_Running_Time = 0,375.
+ProcessID = 2568 : Parent_ProcessID = 1409 : Avarage_Running_Time = 0,471234.
+Average_Running_Children_of_ParentID = 1409 is 0,307733
+ProcessID = 1711 : Parent_ProcessID = 1432 : Avarage_Running_Time = 0,0749354.
+Average_Running_Children_of_ParentID = 1432 is 0,0749354
+ProcessID = 1452 : Parent_ProcessID = 1445 : Avarage_Running_Time = 0,406593.
+Average_Running_Children_of_ParentID = 1445 is 0,406593
+ProcessID = 1483 : Parent_ProcessID = 1468 : Avarage_Running_Time = 0,5.
+Average_Running_Children_of_ParentID = 1468 is 0,5
+ProcessID = 1569 : Parent_ProcessID = 1536 : Avarage_Running_Time = 0,244444.
+ProcessID = 1804 : Parent_ProcessID = 1536 : Avarage_Running_Time = 0,380952.
+ProcessID = 1814 : Parent_ProcessID = 1536 : Avarage_Running_Time = 0,955882.
+Average_Running_Children_of_ParentID = 1536 is 0,527093
+ProcessID = 1582 : Parent_ProcessID = 1569 : Avarage_Running_Time = 0,0738007.
+Average_Running_Children_of_ParentID = 1569 is 0,0738007
+ProcessID = 2027 : Parent_ProcessID = 1570 : Avarage_Running_Time = 0,310744.
+ProcessID = 2278 : Parent_ProcessID = 1570 : Avarage_Running_Time = 0,144578.
+Average_Running_Children_of_ParentID = 1570 is 0,227661
+ProcessID = 1742 : Parent_ProcessID = 1735 : Avarage_Running_Time = 0,0328498.
+Average_Running_Children_of_ParentID = 1735 is 0,0328498
+ProcessID = 1802 : Parent_ProcessID = 1742 : Avarage_Running_Time = 0,24.
+ProcessID = 1806 : Parent_ProcessID = 1742 : Avarage_Running_Time = 2,38264.
+ProcessID = 1895 : Parent_ProcessID = 1742 : Avarage_Running_Time = 0,0552764.
+Average_Running_Children_of_ParentID = 1742 is 0,892639
+ProcessID = 2128 : Parent_ProcessID = 2102 : Avarage_Running_Time = 0,213235.
+Average_Running_Children_of_ParentID = 2102 is 0,213235
+ProcessID = 3083 : Parent_ProcessID = 2128 : Avarage_Running_Time = 1.
+Average_Running_Children_of_ParentID = 2128 is 1
+ProcessID = 3084 : Parent_ProcessID = 3083 : Avarage_Running_Time = 1.
+Average_Running_Children_of_ParentID = 3083 is 1
+ProcessID = 3085 : Parent_ProcessID = 3084 : Avarage_Running_Time = 0,0625.
+ProcessID = 3086 : Parent_ProcessID = 3084 : Avarage_Running_Time = 0,0154242.
+Average_Running_Children_of_ParentID = 3084 is 0,0779242

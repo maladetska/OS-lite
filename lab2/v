@@ -1,0 +1,25 @@
+#!/bin/bash
+
+bash iv
+
+input="/home/"$USER"/lab2/iv.out"
+output="/home/"$USER"/lab2/v.out"
+
+awk -F ' : | = ' '
+	BEGIN {
+		currPPID=0;
+		summART=0;
+		countOfPID=-1
+	} {
+		countOfPID++;
+		if (currPPID != $4) {
+			print "Average_Running_Children_of_ParentID = "currPPID" is " summART/countOfPID 
+     			currPPID=$4;
+     			summART=0;	
+     			countOfPID=0
+		}
+		print $0;
+		summART+=$6; 
+	} END { 
+		print "Average_Running_Children_of_ParentID = "currPPID" is " summART/countOfPID
+	} ' $input > $output
