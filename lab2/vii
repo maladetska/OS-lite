@@ -1,0 +1,22 @@
+#!/bin/bash
+
+cd /proc
+
+begin=$(for pid in $(ps -Ao pid | grep -oh -E [0-9]+); do
+	bytes=$(grep "read_bytes" $pid/io 2>/dev/null | awk '{printf $2}')
+	if [[ -n $bytes ]]; then
+		echo "$pid  $bytes"
+	fi
+done)
+
+sleep 60s
+
+echo "$begin" | while read line; do
+	pid=$(echo $line | awk '{printf $1}')
+	bytesBegin=$(echo $line | awk '{printf $2}')
+	bytesEnd=$(grep "read_bytes" $pid/io 2>/dev/null | awk '{printf $2}')
+	volume=$((bytesEnd-bytesBegin))
+	if [[ -n $volume ]]; then
+		echo "$pid : $(cat $pid/cmdline 2>/dev/null | tr '\0' ']') : $volume"
+	fi
+done | sort -nk5 | tail -n -3
