@@ -1,0 +1,13 @@
+#!/bin/bash
+
+cd /proc
+
+for pid in $(ps -Ao pid | grep -oh -E [0-9]+); do
+	if [[ -e "$pid" ]]; then
+		echo "$pid " $(awk '{print $1}' "$pid/statm")
+	fi
+done | sort -k2 -n -r | head -1 | awk '{print $1}'
+	
+echo "--check with top:" 
+top -n 1 -b -o +%MEM | head -8 | tail -1 | awk '{print $1}'
+#top -b -n 1 | tail -n +8 | sort -n -r -k 10 | head -1 | awk '{print $1}'
