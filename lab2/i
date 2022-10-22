@@ -1,0 +1,6 @@
+#!/bin/bash
+
+output="i.out"
+
+ps -u $USER | wc -l | awk '{print $1}' > $output 
+ps -u $USER | awk '{print $1 ":" $4}' >> $output
