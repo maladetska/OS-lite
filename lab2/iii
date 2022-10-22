@@ -1,0 +1,6 @@
+#!/bin/bash
+
+ps -c | tail -1 | awk '{print $1}'
+
+#or :
+#ps -u | tail -1 | awk '{print $2}'
