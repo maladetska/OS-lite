@@ -10,10 +10,10 @@ III|+|+|
 IV|+|+|
 V|+|+|
 VI|+|+|
-VII|+|+|
-VIII|+||
-IX|+||
-X|+||
+VII|+|+
+VIII|+
+IX|+
+X|+
 ------
 01.03.02 ITMO, second year, third term
 
