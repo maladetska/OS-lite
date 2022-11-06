@@ -2,7 +2,7 @@
 
 Name|AAA|Monitoring of Linux OS processes and resources|Process management in Linux OS
 ---|---|---|---
-Task|(lab1)[https://github.com/maladetska/OS-lite/blob/main/lab1/OS_Lab1.pdf]|(lab2)[https://github.com/maladetska/OS-lite/blob/main/lab2/OS_Lab2.pdf]|lab3|
+Task|[lab1](https://github.com/maladetska/OS-lite/blob/main/lab1/OS_Lab1.pdf)|[lab2](https://github.com/maladetska/OS-lite/blob/main/lab2/OS_Lab2.pdf)|lab3|
 mod|[+](https://github.com/maladetska/OS-lite/blob/main/lab1/mod/solution)|-|-
 I|[+](https://github.com/maladetska/OS-lite/blob/main/lab1/i)|+|
 II|[+](https://github.com/maladetska/OS-lite/blob/main/lab1/ii)|+|
