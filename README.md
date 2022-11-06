@@ -1,8 +1,8 @@
 # OS-lite
 
 Name|Linux OS CLI and bash basics|Linux OS processes and resources monitoring|Process management in Linux OS|Work with files and catalogs in Linux OS
----|---|---|---|---
-Task|[lab1](https://github.com/maladetska/OS-lite/blob/main/lab1/OS_Lab1.pdf)|[lab2](https://github.com/maladetska/OS-lite/blob/main/lab2/OS_Lab2.pdf)|[lab3](https://github.com/maladetska/OS-lite/blob/main/lab3/OS_Lab3.pdf)|[lab4](https://github.com/maladetska/OS-lite/blob/main/lab4/OS_Lab4.pdf)
+---|---|---|---|---|---|---
+Task|[lab1](https://github.com/maladetska/OS-lite/blob/main/lab1/OS_Lab1.pdf)|[lab2](https://github.com/maladetska/OS-lite/blob/main/lab2/OS_Lab2.pdf)|[lab3](https://github.com/maladetska/OS-lite/blob/main/lab3/OS_Lab3.pdf)|[lab4](https://github.com/maladetska/OS-lite/blob/main/lab4/OS_Lab4.pdf)|lab5|lab6
 mod|[+](https://github.com/maladetska/OS-lite/blob/main/lab1/mod/solution)|-|-|-
 I|[+](https://github.com/maladetska/OS-lite/blob/main/lab1/i)|[+](https://github.com/maladetska/OS-lite/blob/main/lab2/i)|[+](https://github.com/maladetska/OS-lite/blob/main/lab3/i)|-
 II|[+](https://github.com/maladetska/OS-lite/blob/main/lab1/ii)|[+](https://github.com/maladetska/OS-lite/blob/main/lab2/ii)|[+](https://github.com/maladetska/OS-lite/blob/main/lab3/ii)|-
