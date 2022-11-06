@@ -1,0 +1,11 @@
+#!/bin/bash
+
+TEST_DIR=$HOME/test
+TIME=`date +"%F_%T"`
+
+mkdir $TEST_DIR && 
+	echo "catalog test was created successfully" >> ~/report && 
+	touch $TEST_DIR/$TIME;
+
+ping -c 1 "www.net_nikogo.ru" || 
+	echo "$(date +%F_%T) Host www.net_nikogo.ru is unavailable!" >> ~/report
