@@ -3,7 +3,7 @@
 Name|AAA|Monitoring of Linux OS processes and resources|Process management in Linux OS
 ---|---|---|---
 Task|lab1|lab2|lab3|
-mod|-|-|-
+mod|+|-|-
 I|+|+|
 II|+|+|
 III|+|+|
