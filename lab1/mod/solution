@@ -1,0 +1,32 @@
+#!/bin/bash
+
+# Дан файл с успеваемостью студентов по предметам, все строки представлены в формате *ФИО баллы1 баллы2 ... баллыN*.  Для простоты можно считать, что все числа целые. Задание — поменять баллы на оценки по системе БАРС (например, 93 -> A, 77 -> C, 46 -> FX) и вывести преобразованную табличку
+
+input="test"
+
+awk '	BEGIN { 
+		newTable = " "
+	} {
+		newTable = newTable "\n"
+		for (name = 1; name < 4; name++) {
+			newTable = newTable " " $name
+		}
+		for (mark = 4; mark <= NF; mark++) {
+       			if ($mark > 90) {
+				newTable = newTable " A"	
+			} else if ($mark > 83) {
+				newTable = newTable " B"	
+			} else if ($mark > 74) {
+				newTable = newTable " C"	
+			} else if ($mark > 67) {
+				newTable = newTable " D"	
+			} else if ($mark >= 60) {
+				newTable = newTable " E"	
+			} else {
+				newTable = newTable " FX"	
+			}
+		}
+    	} END {
+    		print newTable
+    	}
+' $input
