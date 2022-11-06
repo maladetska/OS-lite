@@ -1,0 +1,9 @@
+#!/bin/bash
+
+echo "*/5 * * * 6 ~lab3/i" | crontab
+
+#Every min : 5
+#Every hour 
+#Every day
+#Every mounth
+#Every 6(SAT)
