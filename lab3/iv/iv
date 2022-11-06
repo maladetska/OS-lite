@@ -1,0 +1,15 @@
+#!/bin/bash
+
+./infinite_calculation0&pid0=$!
+./infinite_calculation1&pid1=$!
+./infinite_calculation2&pid2=$!
+
+renice +10 -p $pid0
+echo $pid0 $pid1 $pid2
+
+#top -o %CPU
+kill ${pid2} 
+
+#top -o %CPU
+kill ${pid0} ; kill ${pid1}
+
