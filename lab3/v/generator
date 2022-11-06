@@ -1,0 +1,25 @@
+#!/bin/bash
+
+while true; do
+	read LINE
+	echo "$LINE" > pipe
+	case "$LINE" in
+		"QUIT")
+			echo "end generator with QUIT"
+			exit 0
+			;;
+		'+') 
+			continue
+			;;
+		'*')
+			continue
+			;;
+		[0-9]*) 
+			continue
+			;;
+		*)
+			echo "end generator because of invalid input"
+			exit 1
+			;;
+	esac
+done

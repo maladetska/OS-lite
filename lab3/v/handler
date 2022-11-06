@@ -1,0 +1,39 @@
+#!/bin/bash
+
+NUMBER=1
+STATE='+'
+
+(tail -f pipe) |
+while true; do
+	read LINE
+	case "$LINE" in
+		"QUIT")
+			echo "end handler with QUIT"
+	 		killall tail
+			exit 0
+			;;
+		'+')
+			STATE='+'
+			;;
+		'*')
+			STATE='*'
+			;;
+		[0-9]*)
+			case $STATE in
+				'+')
+					NUMBER=$(echo "${NUMBER} + ${LINE}" | bc)
+					echo $NUMBER
+					;;
+				'*')
+					NUMBER=$(echo "${NUMBER} * ${LINE}" | bc)
+					echo $NUMBER
+					;;
+			esac
+			;;
+		*)
+			echo "end handler because of invalid input"
+			killall tail
+			exit 1
+			;;		
+	esac
+done
