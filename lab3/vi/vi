@@ -1,0 +1,4 @@
+#!/bin/bash 
+
+./handler&pid=$!
+./generator $pid

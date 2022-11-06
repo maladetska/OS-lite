@@ -1,0 +1,22 @@
+#!/bin/bash
+
+PID=$(cat .pid)
+
+while true; do
+	read LINE
+	case $LINE in
+		'+')
+			kill -USR1 $PID
+			;;
+		'*')
+			kill -USR2 $PID
+			;;
+		"TERM")
+			kill -SIGTERM $PID
+			echo "exit"
+			exit 0
+			;;
+	esac
+done
+
+

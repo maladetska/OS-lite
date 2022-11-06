@@ -1,0 +1,43 @@
+#!/bin/bash
+
+echo $$ > .pid
+
+NUMBER=1
+STATE='+'
+
+usr1() 
+{
+	STATE='+'
+}
+
+usr2() 
+{
+	STATE='*'
+}
+
+exit() 
+{
+	STATE="TERM"
+	exit 0
+}
+
+trap 'usr1' USR1
+trap 'usr2' USR2
+trap 'exit' SIGTERM
+
+while true; do
+	case $STATE in
+		'+')
+			NUMBER=$(echo "${NUMBER}+2" | bc)
+			;;
+		'*')
+			NUMBER=$(echo "${NUMBER}*2" | bc)
+			;;
+			
+	esac
+	
+	echo $NUMBER
+	sleep 1
+done
+
+
