@@ -1,7 +1,7 @@
 #!/bin/bash
 		
 cd /proc
-output="/home/"$USER"/lab2/iv.out"
+output="$HOME/lab2/iv.out"
 
 for pid in $(ps -Ao pid | grep -oh -E [0-9]+); do
 	if [[ -e "$pid" ]]; then
