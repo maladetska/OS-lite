@@ -1,0 +1,25 @@
+#!/usr/bin/env bash
+
+N=$1
+K=$2
+path=logs/$N'_'$K
+
+mkdir $path
+: > $path/ram.log
+: > $path/swap.log
+: > $path/params.log
+: > $path/top5.log
+
+while true
+do
+    BOTH=$(free | tail -n2 | awk '{print $4;}')
+    echo "$BOTH" | head -n1 >> $path/ram.log
+    echo "$BOTH" | tail -n1 >> $path/swap.log
+
+    top -b -n1 | grep -m 1 "newmem.bash" >> $path/params.log
+
+    top -b -n1 -o %MEM | head -n12 | tail -n5 >> $path/top5.log
+    echo "" >> $path/top5.log
+
+    sleep 0.1s
+done

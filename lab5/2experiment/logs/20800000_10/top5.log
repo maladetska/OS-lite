@@ -1,0 +1,894 @@
+  158 vladisl+  20   0  764784   6344      0 S   0.0   0.0   0:46.44 docker
+  144 root      20   0 1680396   3808      0 S   0.0   0.0   0:11.32 docker-desktop-
+ 9884 vladisl+  20   0   10876   3652   3116 T   0.0   0.0   0:00.03 top
+ 9926 vladisl+  20   0    8752   3620   3172 S   0.0   0.0   0:00.00 bash
+ 9937 vladisl+  20   0   10864   3568   3112 R   0.0   0.0   0:00.00 top
+
+  158 vladisl+  20   0  764784   6344      0 S   0.0   0.0   0:46.44 docker
+  144 root      20   0 1680396   3808      0 S   0.0   0.0   0:11.32 docker-desktop-
+ 9884 vladisl+  20   0   10876   3652   3116 T   0.0   0.0   0:00.03 top
+ 9951 vladisl+  20   0   10864   3648   3188 R   0.0   0.0   0:00.01 top
+ 9926 vladisl+  20   0    8752   3628   3172 S   0.0   0.0   0:00.03 bash
+
+  158 vladisl+  20   0  764784   6344      0 S   0.0   0.0   0:46.44 docker
+  144 root      20   0 1680396   3808      0 S   0.0   0.0   0:11.32 docker-desktop-
+ 9884 vladisl+  20   0   10876   3652   3116 T   0.0   0.0   0:00.03 top
+ 9926 vladisl+  20   0    8752   3628   3172 S   0.0   0.0   0:00.03 bash
+ 9965 vladisl+  20   0   10864   3608   3148 R   0.0   0.0   0:00.00 top
+
+  158 vladisl+  20   0  764784   6344      0 S   0.0   0.0   0:46.44 docker
+  144 root      20   0 1680396   3808      0 S   0.0   0.0   0:11.32 docker-desktop-
+ 9884 vladisl+  20   0   10876   3652   3116 T   0.0   0.0   0:00.03 top
+ 9979 vladisl+  20   0   10864   3640   3184 R   6.7   0.0   0:00.01 top
+ 9926 vladisl+  20   0    8752   3628   3172 S   0.0   0.0   0:00.04 bash
+
+ 9986 vladisl+  20   0   32512  26756   2772 R 100.0   0.2   0:00.51 newmem.bash
+ 9984 vladisl+  20   0   31324  25512   2852 R 100.0   0.2   0:00.51 newmem.bash
+ 9988 vladisl+  20   0   30928  25508   3124 R 100.0   0.2   0:00.51 newmem.bash
+ 9990 vladisl+  20   0   30268  24744   2876 R 100.0   0.2   0:00.48 newmem.bash
+ 9985 vladisl+  20   0   27892  22500   3008 R  53.3   0.2   0:00.42 newmem.bash
+
+ 9986 vladisl+  20   0   55612  49988   2772 R  86.7   0.4   0:01.04 newmem.bash
+ 9990 vladisl+  20   0   52972  47448   2876 R  93.3   0.4   0:01.03 newmem.bash
+ 9985 vladisl+  20   0   51652  45996   3008 R  86.7   0.4   0:00.95 newmem.bash
+ 9988 vladisl+  20   0   51124  45836   3124 R 100.0   0.4   0:00.97 newmem.bash
+ 9984 vladisl+  20   0   47032  41352   2852 R  60.0   0.3   0:00.87 newmem.bash
+
+ 9985 vladisl+  20   0   77920  72396   3008 R 100.0   0.6   0:01.47 newmem.bash
+ 9986 vladisl+  20   0   73564  67940   2772 R  80.0   0.5   0:01.40 newmem.bash
+ 9989 vladisl+  20   0   72508  67144   3044 R 100.0   0.5   0:01.38 newmem.bash
+ 9990 vladisl+  20   0   70264  64608   2876 R  46.7   0.5   0:01.37 newmem.bash
+ 9987 vladisl+  20   0   69340  63920   2984 R 100.0   0.5   0:01.29 newmem.bash
+
+ 9985 vladisl+  20   0   97456  91932   3008 R  66.7   0.7   0:01.87 newmem.bash
+ 9992 vladisl+  20   0   94420  88872   3128 R 100.0   0.7   0:01.78 newmem.bash
+ 9987 vladisl+  20   0   94288  88736   2984 R 100.0   0.7   0:01.81 newmem.bash
+ 9988 vladisl+  20   0   92968  87548   3124 R 100.0   0.7   0:01.82 newmem.bash
+ 9986 vladisl+  20   0   90196  84572   2772 R  86.7   0.7   0:01.75 newmem.bash
+
+ 9987 vladisl+  20   0  118180 112760   2984 R 100.0   0.9   0:02.29 newmem.bash
+ 9992 vladisl+  20   0  117520 112104   3128 R 100.0   0.9   0:02.26 newmem.bash
+ 9988 vladisl+  20   0  117124 111572   3124 R 100.0   0.9   0:02.31 newmem.bash
+ 9985 vladisl+  20   0  115936 110412   3008 R  93.3   0.9   0:02.26 newmem.bash
+ 9986 vladisl+  20   0  106300 100676   2772 R  60.0   0.8   0:02.08 newmem.bash
+
+ 9987 vladisl+  20   0  142336 136784   2984 R  93.3   1.1   0:02.79 newmem.bash
+ 9988 vladisl+  20   0  139960 134540   3124 R  80.0   1.0   0:02.79 newmem.bash
+ 9992 vladisl+  20   0  138508 133224   3128 R  53.3   1.0   0:02.69 newmem.bash
+ 9985 vladisl+  20   0  134152 128628   3008 R  80.0   1.0   0:02.64 newmem.bash
+ 9991 vladisl+  20   0  129928 124364   2976 R 100.0   1.0   0:02.54 newmem.bash
+
+ 9992 vladisl+  20   0  163060 157776   3128 R  86.7   1.2   0:03.17 newmem.bash
+ 9987 vladisl+  20   0  160684 155264   2984 R  73.3   1.2   0:03.16 newmem.bash
+ 9988 vladisl+  20   0  156724 151436   3124 R  53.3   1.2   0:03.13 newmem.bash
+ 9985 vladisl+  20   0  153424 147900   3008 R 100.0   1.1   0:03.03 newmem.bash
+ 9991 vladisl+  20   0  152896 147332   2976 R 100.0   1.1   0:02.99 newmem.bash
+
+ 9987 vladisl+  20   0  183784 178232   2984 R  73.3   1.4   0:03.65 newmem.bash
+ 9992 vladisl+  20   0  180088 174672   3128 R  53.3   1.4   0:03.51 newmem.bash
+ 9985 vladisl+  20   0  179032 173508   3008 R 100.0   1.3   0:03.55 newmem.bash
+ 9991 vladisl+  20   0  178900 173204   2976 R 100.0   1.3   0:03.52 newmem.bash
+ 9988 vladisl+  20   0  174016 168596   3124 R  60.0   1.3   0:03.48 newmem.bash
+
+ 9985 vladisl+  20   0  204772 199380   3008 R 100.0   1.5   0:04.07 newmem.bash
+ 9992 vladisl+  20   0  201472 196056   3128 R  86.7   1.5   0:03.93 newmem.bash
+ 9987 vladisl+  20   0  201340 195920   2984 R 100.0   1.5   0:04.00 newmem.bash
+ 9991 vladisl+  20   0  196588 190892   2976 R  46.7   1.5   0:03.87 newmem.bash
+ 9984 vladisl+  20   0  188272 182592   2852 R 100.0   1.4   0:03.75 newmem.bash
+
+ 9985 vladisl+  20   0  226684 221028   3008 R  53.3   1.7   0:04.52 newmem.bash
+ 9992 vladisl+  20   0  220084 214800   3128 R  80.0   1.7   0:04.32 newmem.bash
+ 9991 vladisl+  20   0  218104 212540   2976 R 100.0   1.6   0:04.33 newmem.bash
+ 9987 vladisl+  20   0  216388 210968   2984 R  80.0   1.6   0:04.31 newmem.bash
+ 9984 vladisl+  20   0  211108 205296   2852 R  66.7   1.6   0:04.23 newmem.bash
+
+ 9985 vladisl+  20   0  245824 240300   3008 R  73.3   1.9   0:04.90 newmem.bash
+ 9991 vladisl+  20   0  244768 239204   2976 R 100.0   1.9   0:04.87 newmem.bash
+ 9992 vladisl+  20   0  238564 233016   3128 R  60.0   1.8   0:04.69 newmem.bash
+ 9987 vladisl+  20   0  235264 229712   2984 R  80.0   1.8   0:04.69 newmem.bash
+ 9986 vladisl+  20   0  232360 226604   2772 R 100.0   1.8   0:04.64 newmem.bash
+
+ 9991 vladisl+  20   0  270112 264548   2976 R 100.0   2.1   0:05.38 newmem.bash
+ 9985 vladisl+  20   0  264040 258516   3008 R  53.3   2.0   0:05.27 newmem.bash
+ 9986 vladisl+  20   0  257836 251948   2772 R 100.0   2.0   0:05.16 newmem.bash
+ 9992 vladisl+  20   0  252160 246744   3128 R  46.7   1.9   0:05.01 newmem.bash
+ 9987 vladisl+  20   0  250312 244760   2984 R  53.3   1.9   0:05.01 newmem.bash
+
+ 9991 vladisl+  20   0  295984 290420   2976 R  93.3   2.3   0:05.91 newmem.bash
+ 9985 vladisl+  20   0  286480 280956   3008 R  93.3   2.2   0:05.72 newmem.bash
+ 9986 vladisl+  20   0  284764 278876   2772 R 100.0   2.2   0:05.69 newmem.bash
+ 9992 vladisl+  20   0  273940 268392   3128 R 100.0   2.1   0:05.44 newmem.bash
+ 9989 vladisl+  20   0  273280 267784   3044 R  66.7   2.1   0:05.55 newmem.bash
+
+ 9991 vladisl+  20   0  320668 315236   2976 R 100.0   2.4   0:06.45 newmem.bash
+ 9986 vladisl+  20   0  307336 301580   2772 R 100.0   2.3   0:06.19 newmem.bash
+ 9985 vladisl+  20   0  305884 300492   3008 R  86.7   2.3   0:06.14 newmem.bash
+ 9993 vladisl+  20   0  295324 289956   3044 R 100.0   2.2   0:05.99 newmem.bash
+ 9989 vladisl+  20   0  291100 285736   3044 R  86.7   2.2   0:05.95 newmem.bash
+
+ 9991 vladisl+  20   0  336772 331340   2976 R  46.7   2.6   0:06.81 newmem.bash
+ 9986 vladisl+  20   0  333076 327452   2772 R 100.0   2.5   0:06.73 newmem.bash
+ 9985 vladisl+  20   0  322780 317388   3008 R  60.0   2.5   0:06.50 newmem.bash
+ 9989 vladisl+  20   0  314332 308704   3044 R 100.0   2.4   0:06.48 newmem.bash
+ 9993 vladisl+  20   0  312748 307380   3044 R  53.3   2.4   0:06.37 newmem.bash
+
+ 9986 vladisl+  20   0  356572 350684   2772 R  66.7   2.7   0:07.23 newmem.bash
+ 9991 vladisl+  20   0  355384 349820   2976 R  66.7   2.7   0:07.24 newmem.bash
+ 9985 vladisl+  20   0  343372 337716   3008 R 100.0   2.6   0:06.93 newmem.bash
+ 9989 vladisl+  20   0  339544 334048   3044 R 100.0   2.6   0:07.02 newmem.bash
+ 9992 vladisl+  20   0  335320 329904   3128 R 100.0   2.6   0:06.87 newmem.bash
+
+ 9986 vladisl+  20   0  372544 366788   2772 R  60.0   2.8   0:07.59 newmem.bash
+ 9991 vladisl+  20   0  371092 365660   2976 R  86.7   2.8   0:07.61 newmem.bash
+ 9985 vladisl+  20   0  367792 362268   3008 R 100.0   2.8   0:07.47 newmem.bash
+ 9989 vladisl+  20   0  363040 357544   3044 R 100.0   2.8   0:07.56 newmem.bash
+ 9992 vladisl+  20   0  358024 352608   3128 R  93.3   2.7   0:07.41 newmem.bash
+
+ 9986 vladisl+  20   0  396172 390284   2772 R 100.0   3.0   0:08.07 newmem.bash
+ 9985 vladisl+  20   0  395116 389460   3008 R 100.0   3.0   0:08.04 newmem.bash
+ 9991 vladisl+  20   0  389176 383612   2976 R  53.3   3.0   0:08.00 newmem.bash
+ 9989 vladisl+  20   0  384952 379456   3044 R  73.3   2.9   0:08.03 newmem.bash
+ 9992 vladisl+  20   0  380200 374784   3128 R  73.3   2.9   0:07.88 newmem.bash
+
+ 9985 vladisl+  20   0  421120 415596   3008 R 100.0   3.2   0:08.58 newmem.bash
+ 9986 vladisl+  20   0  417424 411668   2772 R 100.0   3.2   0:08.51 newmem.bash
+ 9991 vladisl+  20   0  411088 405524   2976 R  86.7   3.1   0:08.51 newmem.bash
+ 9989 vladisl+  20   0  400792 395296   3044 R  40.0   3.1   0:08.39 newmem.bash
+ 9992 vladisl+  20   0  396964 391680   3128 R  66.7   3.0   0:08.26 newmem.bash
+
+ 9985 vladisl+  20   0  445540 440148   3008 R 100.0   3.4   0:09.08 newmem.bash
+ 9986 vladisl+  20   0  441976 436220   2772 R  86.7   3.4   0:09.02 newmem.bash
+ 9991 vladisl+  20   0  434188 428492   2976 R 100.0   3.3   0:09.00 newmem.bash
+ 9989 vladisl+  20   0  417556 412192   3044 R  53.3   3.2   0:08.75 newmem.bash
+ 9992 vladisl+  20   0  412672 407256   3128 R  46.7   3.2   0:08.59 newmem.bash
+
+ 9985 vladisl+  20   0  468112 462588   3008 R  73.3   3.6   0:09.57 newmem.bash
+ 9986 vladisl+  20   0  459928 454172   2772 R  66.7   3.5   0:09.40 newmem.bash
+ 9991 vladisl+  20   0  458344 452780   2976 R 100.0   3.5   0:09.54 newmem.bash
+ 9989 vladisl+  20   0  437884 432256   3044 R 100.0   3.4   0:09.17 newmem.bash
+ 9992 vladisl+  20   0  430756 425472   3128 R  66.7   3.3   0:08.99 newmem.bash
+
+ 9985 vladisl+  20   0  494248 488724   3008 R 100.0   3.8   0:10.10 newmem.bash
+ 9986 vladisl+  20   0  475108 469220   2772 R  53.3   3.6   0:09.73 newmem.bash
+ 9991 vladisl+  20   0  472336 466772   2976 R  60.0   3.6   0:09.83 newmem.bash
+ 9989 vladisl+  20   0  462964 457336   3044 R 100.0   3.5   0:09.70 newmem.bash
+ 9992 vladisl+  20   0  457024 451608   3128 R 100.0   3.5   0:09.52 newmem.bash
+
+ 9985 vladisl+  20   0  519196 513804   3008 R 100.0   4.0   0:10.63 newmem.bash
+ 9986 vladisl+  20   0  490420 484532   2772 R  93.3   3.8   0:10.05 newmem.bash
+ 9991 vladisl+  20   0  490024 484460   2976 R  60.0   3.8   0:10.23 newmem.bash
+ 9989 vladisl+  20   0  485800 480304   3044 R 100.0   3.7   0:10.24 newmem.bash
+ 9992 vladisl+  20   0  482632 477216   3128 R 100.0   3.7   0:10.05 newmem.bash
+
+ 9985 vladisl+  20   0  544540 538884   3008 R 100.0   4.2   0:11.15 newmem.bash
+ 9986 vladisl+  20   0  514576 508820   2772 R 100.0   3.9   0:10.54 newmem.bash
+ 9989 vladisl+  20   0  507316 501688   3044 R  73.3   3.9   0:10.67 newmem.bash
+ 9991 vladisl+  20   0  505996 500564   2976 R  46.7   3.9   0:10.55 newmem.bash
+ 9992 vladisl+  20   0  504808 499392   3128 R  53.3   3.9   0:10.51 newmem.bash
+
+ 9985 vladisl+  20   0  556288 550764   3008 R  40.0   4.3   0:11.40 newmem.bash
+ 9986 vladisl+  20   0  539128 533372   2772 R 100.0   4.1   0:11.07 newmem.bash
+ 9991 vladisl+  20   0  528040 522476   2976 R 100.0   4.1   0:11.02 newmem.bash
+ 9989 vladisl+  20   0  523156 517792   3044 R  46.7   4.0   0:11.00 newmem.bash
+ 9992 vladisl+  20   0  521176 515760   3128 R  60.0   4.0   0:10.84 newmem.bash
+
+ 9985 vladisl+  20   0  576352 570828   3008 R  60.0   4.4   0:11.81 newmem.bash
+ 9986 vladisl+  20   0  565132 559508   2772 R 100.0   4.3   0:11.59 newmem.bash
+ 9991 vladisl+  20   0  546520 540956   2976 R  93.3   4.2   0:11.40 newmem.bash
+ 9989 vladisl+  20   0  540316 534952   3044 R  86.7   4.1   0:11.35 newmem.bash
+ 9993 vladisl+  20   0  535300 529932   3044 R 100.0   4.1   0:11.10 newmem.bash
+
+ 9985 vladisl+  20   0  595492 590100   3008 R  46.7   4.6   0:12.21 newmem.bash
+ 9986 vladisl+  20   0  591532 585908   2772 R 100.0   4.5   0:12.12 newmem.bash
+ 9991 vladisl+  20   0  563020 557588   2976 R  53.3   4.3   0:11.74 newmem.bash
+ 9993 vladisl+  20   0  561304 555804   3044 R 100.0   4.3   0:11.63 newmem.bash
+ 9989 vladisl+  20   0  556948 551584   3044 R  60.0   4.3   0:11.71 newmem.bash
+
+ 9986 vladisl+  20   0  617536 611780   2772 R 100.0   4.7   0:12.65 newmem.bash
+ 9985 vladisl+  20   0  617008 611484   3008 R  86.7   4.7   0:12.65 newmem.bash
+ 9993 vladisl+  20   0  585856 580356   3044 R 100.0   4.5   0:12.16 newmem.bash
+ 9989 vladisl+  20   0  581104 575608   3044 R 100.0   4.5   0:12.24 newmem.bash
+ 9991 vladisl+  20   0  575164 569468   2976 R  46.7   4.4   0:11.99 newmem.bash
+
+ 9985 vladisl+  20   0  644200 638676   3008 R 100.0   5.0   0:13.19 newmem.bash
+ 9986 vladisl+  20   0  644068 638180   2772 R  93.3   4.9   0:13.19 newmem.bash
+ 9993 vladisl+  20   0  613048 607548   3044 R 100.0   4.7   0:12.71 newmem.bash
+ 9991 vladisl+  20   0  601432 595868   2976 R 100.0   4.6   0:12.53 newmem.bash
+ 9989 vladisl+  20   0  598264 592768   3044 R  73.3   4.6   0:12.60 newmem.bash
+
+ 9985 vladisl+  20   0  660040 654516   3008 R  46.7   5.1   0:13.54 newmem.bash
+ 9986 vladisl+  20   0  659776 654020   2772 R  53.3   5.1   0:13.55 newmem.bash
+ 9993 vladisl+  20   0  636940 631308   3044 R 100.0   4.9   0:13.25 newmem.bash
+ 9991 vladisl+  20   0  618328 612764   2976 R 100.0   4.8   0:12.92 newmem.bash
+ 9989 vladisl+  20   0  615688 610192   3044 R  86.7   4.7   0:12.97 newmem.bash
+
+ 9985 vladisl+  20   0  676276 670884   3008 R  86.7   5.2   0:13.92 newmem.bash
+ 9986 vladisl+  20   0  673900 668276   2772 R  53.3   5.2   0:13.87 newmem.bash
+ 9993 vladisl+  20   0  650404 645036   3044 R  53.3   5.0   0:13.56 newmem.bash
+ 9989 vladisl+  20   0  637468 632104   3044 R 100.0   4.9   0:13.48 newmem.bash
+ 9991 vladisl+  20   0  634696 629132   2976 R  86.7   4.9   0:13.29 newmem.bash
+
+ 9985 vladisl+  20   0  692776 687252   3008 R 100.0   5.3   0:14.44 newmem.bash
+ 9986 vladisl+  20   0  684064 678308   2772 R  50.0   5.3   0:14.22 newmem.bash
+ 9993 vladisl+  20   0  663076 657444   3044 R  43.8   5.1   0:13.95 newmem.bash
+ 9991 vladisl+  20   0  651064 645500   2976 R  93.8   5.0   0:13.82 newmem.bash
+ 9989 vladisl+  20   0  645388 640024   3044 R  62.5   5.0   0:13.77 newmem.bash
+
+ 9985 vladisl+  20   0  708616 703092   3008 R  93.3   5.5   0:14.97 newmem.bash
+ 9986 vladisl+  20   0  695548 689924   2772 R 100.0   5.3   0:14.64 newmem.bash
+ 9993 vladisl+  20   0  670996 665628   3044 R  46.7   5.2   0:14.22 newmem.bash
+ 9991 vladisl+  20   0  666904 661340   2976 R 100.0   5.1   0:14.35 newmem.bash
+ 9989 vladisl+  20   0  658588 653224   3044 R 100.0   5.1   0:14.24 newmem.bash
+
+ 9985 vladisl+  20   0  722740 717348   3008 R  87.5   5.6   0:15.51 newmem.bash
+ 9986 vladisl+  20   0  707560 701804   2772 R  50.0   5.4   0:15.08 newmem.bash
+ 9991 vladisl+  20   0  681820 676124   2976 R  93.8   5.2   0:14.91 newmem.bash
+ 9993 vladisl+  20   0  680896 675396   3044 R  56.2   5.2   0:14.61 newmem.bash
+ 9989 vladisl+  20   0  670996 665368   3044 R  43.8   5.2   0:14.73 newmem.bash
+
+ 9985 vladisl+  20   0  736600 731076   3008 R 100.0   5.7   0:16.06 newmem.bash
+ 9986 vladisl+  20   0  716140 710252   2772 R  53.3   5.5   0:15.41 newmem.bash
+ 9991 vladisl+  20   0  694360 688796   2976 R  86.7   5.3   0:15.44 newmem.bash
+ 9993 vladisl+  20   0  690532 685164   3044 R  80.0   5.3   0:14.99 newmem.bash
+ 9989 vladisl+  20   0  681820 676456   3044 R 100.0   5.2   0:15.14 newmem.bash
+
+ 9985 vladisl+  20   0  745576 740052   3008 R  73.3   5.7   0:16.43 newmem.bash
+ 9986 vladisl+  20   0  723532 717644   2772 R  46.7   5.6   0:15.75 newmem.bash
+ 9991 vladisl+  20   0  704128 698564   2976 R  93.3   5.4   0:15.86 newmem.bash
+ 9993 vladisl+  20   0  699376 693876   3044 R  80.0   5.4   0:15.41 newmem.bash
+ 9989 vladisl+  20   0  693964 688600   3044 R  80.0   5.3   0:15.66 newmem.bash
+
+ 9985 vladisl+  20   0  757324 751668   3008 R 100.0   5.8   0:16.85 newmem.bash
+ 9986 vladisl+  20   0  733696 727940   2772 R  40.0   5.6   0:16.10 newmem.bash
+ 9993 vladisl+  20   0  714952 709452   3044 R 100.0   5.5   0:15.95 newmem.bash
+ 9991 vladisl+  20   0  712972 707540   2976 R  60.0   5.5   0:16.17 newmem.bash
+ 9989 vladisl+  20   0  704656 699160   3044 R  46.7   5.4   0:16.01 newmem.bash
+
+ 9985 vladisl+  20   0  768808 763284   3008 R  80.0   5.9   0:17.26 newmem.bash
+ 9986 vladisl+  20   0  741880 736124   2772 R  53.3   5.7   0:16.39 newmem.bash
+ 9993 vladisl+  20   0  728812 723180   3044 R  86.7   5.6   0:16.48 newmem.bash
+ 9991 vladisl+  20   0  724456 718892   2976 R  60.0   5.6   0:16.60 newmem.bash
+ 9989 vladisl+  20   0  714424 708928   3044 R  80.0   5.5   0:16.39 newmem.bash
+
+ 9985 vladisl+  20   0  779632 774108   3008 R 100.0   6.0   0:17.64 newmem.bash
+ 9986 vladisl+  20   0  753496 747740   2772 R  50.0   5.8   0:16.78 newmem.bash
+ 9993 vladisl+  20   0  742012 736380   3044 R  68.8   5.7   0:16.93 newmem.bash
+ 9991 vladisl+  20   0  734884 729452   2976 R  50.0   5.7   0:16.95 newmem.bash
+ 9989 vladisl+  20   0  730132 724504   3044 R  87.5   5.6   0:16.94 newmem.bash
+
+ 9985 vladisl+  20   0  793492 788100   3008 R 100.0   6.1   0:18.09 newmem.bash
+ 9986 vladisl+  20   0  767884 762260   2772 R 100.0   5.9   0:17.25 newmem.bash
+ 9993 vladisl+  20   0  758776 753276   3044 R 100.0   5.8   0:17.47 newmem.bash
+ 9991 vladisl+  20   0  747820 742388   2976 R  86.7   5.8   0:17.38 newmem.bash
+ 9989 vladisl+  20   0  742804 737176   3044 R  53.3   5.7   0:17.39 newmem.bash
+
+ 9985 vladisl+  20   0  804316 798924   3008 R  46.7   6.2   0:18.45 newmem.bash
+ 9986 vladisl+  20   0  779632 773876   2772 R  93.3   6.0   0:17.65 newmem.bash
+ 9993 vladisl+  20   0  774484 769116   3044 R 100.0   6.0   0:18.01 newmem.bash
+ 9991 vladisl+  20   0  757720 752156   2976 R  73.3   5.8   0:17.74 newmem.bash
+ 9989 vladisl+  20   0  754420 749056   3044 R  80.0   5.8   0:17.82 newmem.bash
+
+ 9985 vladisl+  20   0  817384 811860   3008 R 100.0   6.3   0:18.89 newmem.bash
+ 9986 vladisl+  20   0  791644 786020   2772 R  60.0   6.1   0:18.04 newmem.bash
+ 9993 vladisl+  20   0  789928 784428   3044 R 100.0   6.1   0:18.50 newmem.bash
+ 9991 vladisl+  20   0  768808 763244   2976 R  80.0   5.9   0:18.11 newmem.bash
+ 9989 vladisl+  20   0  766432 760936   3044 R  80.0   5.9   0:18.23 newmem.bash
+
+ 9985 vladisl+  20   0  827020 821364   3008 R  86.7   6.4   0:19.23 newmem.bash
+ 9986 vladisl+  20   0  806824 801068   2772 R  93.3   6.2   0:18.57 newmem.bash
+ 9993 vladisl+  20   0  801412 796044   3044 R  60.0   6.2   0:18.93 newmem.bash
+ 9991 vladisl+  20   0  778180 772748   2976 R  53.3   6.0   0:18.49 newmem.bash
+ 9987 vladisl+  20   0  776464 770912   2984 R  53.3   6.0   0:18.45 newmem.bash
+
+ 9985 vladisl+  20   0  837976 832452   3008 R 100.0   6.5   0:19.59 newmem.bash
+ 9986 vladisl+  20   0  823720 817964   2772 R 100.0   6.3   0:19.12 newmem.bash
+ 9993 vladisl+  20   0  812236 806868   3044 R  40.0   6.3   0:19.27 newmem.bash
+ 9989 vladisl+  20   0  790984 785488   3044 R  93.3   6.1   0:19.11 newmem.bash
+ 9987 vladisl+  20   0  788344 782792   2984 R  53.3   6.1   0:18.83 newmem.bash
+
+ 9985 vladisl+  20   0  848932 843540   3008 R 100.0   6.5   0:19.97 newmem.bash
+ 9986 vladisl+  20   0  837976 832220   2772 R  86.7   6.5   0:19.62 newmem.bash
+ 9993 vladisl+  20   0  823060 817428   3044 R  53.3   6.3   0:19.64 newmem.bash
+ 9989 vladisl+  20   0  803920 798424   3044 R  86.7   6.2   0:19.56 newmem.bash
+ 9987 vladisl+  20   0  800620 795200   2984 R 100.0   6.2   0:19.27 newmem.bash
+
+ 9985 vladisl+  20   0  864904 859380   3008 R 100.0   6.7   0:20.50 newmem.bash
+ 9986 vladisl+  20   0  848800 843044   2772 R  46.7   6.5   0:19.98 newmem.bash
+ 9993 vladisl+  20   0  835204 829836   3044 R  86.7   6.4   0:20.05 newmem.bash
+ 9989 vladisl+  20   0  819100 813472   3044 R 100.0   6.3   0:20.09 newmem.bash
+ 9987 vladisl+  20   0  816460 811040   2984 R  93.3   6.3   0:19.76 newmem.bash
+
+ 9985 vladisl+  20   0  880348 874956   3008 R 100.0   6.8   0:21.04 newmem.bash
+ 9986 vladisl+  20   0  856984 851228   2772 R  53.3   6.6   0:20.26 newmem.bash
+ 9993 vladisl+  20   0  846424 840924   3044 R  60.0   6.5   0:20.45 newmem.bash
+ 9989 vladisl+  20   0  834676 829312   3044 R 100.0   6.4   0:20.64 newmem.bash
+ 9987 vladisl+  20   0  832432 826880   2984 R 100.0   6.4   0:20.32 newmem.bash
+
+ 9985 vladisl+  20   0  894340 888948   3008 R  93.3   6.9   0:21.58 newmem.bash
+ 9986 vladisl+  20   0  864112 858356   2772 R  66.7   6.7   0:20.53 newmem.bash
+ 9993 vladisl+  20   0  856984 851484   3044 R 100.0   6.6   0:20.91 newmem.bash
+ 9989 vladisl+  20   0  848140 842776   3044 R 100.0   6.5   0:21.17 newmem.bash
+ 9987 vladisl+  20   0  844312 838760   2984 R  40.0   6.5   0:20.76 newmem.bash
+
+ 9985 vladisl+  20   0  903580 898188   3008 R  46.7   7.0   0:21.95 newmem.bash
+ 9993 vladisl+  20   0  871108 865740   3044 R 100.0   6.7   0:21.45 newmem.bash
+ 9986 vladisl+  20   0  871108 865484   2772 R  46.7   6.7   0:20.82 newmem.bash
+ 9989 vladisl+  20   0  862396 856768   3044 R  93.3   6.6   0:21.72 newmem.bash
+ 9987 vladisl+  20   0  856852 851432   2984 R 100.0   6.6   0:21.25 newmem.bash
+
+ 9985 vladisl+  20   0  910312 904788   3008 R  50.0   7.0   0:22.34 newmem.bash
+ 9993 vladisl+  20   0  881404 876036   3044 R  87.5   6.8   0:22.02 newmem.bash
+ 9986 vladisl+  20   0  878104 872348   2772 R  56.2   6.8   0:21.20 newmem.bash
+ 9989 vladisl+  20   0  871504 866008   3044 R  93.8   6.7   0:22.30 newmem.bash
+ 9987 vladisl+  20   0  864244 858560   2984 R  81.2   6.7   0:21.69 newmem.bash
+
+ 9985 vladisl+  20   0  922060 916404   3008 R 100.0   7.1   0:22.87 newmem.bash
+ 9993 vladisl+  20   0  891436 886068   3044 R  93.3   6.9   0:22.49 newmem.bash
+ 9986 vladisl+  20   0  886420 880796   2772 R  46.7   6.8   0:21.62 newmem.bash
+ 9989 vladisl+  20   0  880084 874720   3044 R  60.0   6.8   0:22.77 newmem.bash
+ 9987 vladisl+  20   0  875728 870176   2984 R 100.0   6.7   0:22.23 newmem.bash
+
+ 9985 vladisl+  20   0  935788 930396   3008 R 100.0   7.2   0:23.42 newmem.bash
+ 9993 vladisl+  20   0  903844 898212   3044 R 100.0   7.0   0:23.00 newmem.bash
+ 9986 vladisl+  20   0  896848 891092   2772 R 100.0   6.9   0:22.02 newmem.bash
+ 9987 vladisl+  20   0  889456 883904   2984 R 100.0   6.9   0:22.78 newmem.bash
+ 9989 vladisl+  20   0  888136 882640   3044 R  46.7   6.8   0:23.12 newmem.bash
+
+ 9985 vladisl+  20   0  945952 940428   3008 R  93.8   7.3   0:23.96 newmem.bash
+ 9993 vladisl+  20   0  912028 906660   3044 R  62.5   7.0   0:23.43 newmem.bash
+ 9986 vladisl+  20   0  905428 899804   2772 R  87.5   7.0   0:22.48 newmem.bash
+ 9987 vladisl+  20   0  899752 894200   2984 R  93.8   6.9   0:23.33 newmem.bash
+ 9989 vladisl+  20   0  895396 890032   3044 R  93.8   6.9   0:23.58 newmem.bash
+
+ 9985 vladisl+  20   0  961924 956532   3008 R  54.2   7.4   0:24.69 newmem.bash
+ 9993 vladisl+  20   0  921796 916428   3044 R  33.3   7.1   0:23.90 newmem.bash
+ 9986 vladisl+  20   0  917572 911684   2772 R  25.0   7.1   0:23.03 newmem.bash
+ 9987 vladisl+  20   0  915988 910568   2984 R  62.5   7.1   0:24.01 newmem.bash
+ 9989 vladisl+  20   0  905956 900592   3044 R  25.0   7.0   0:24.04 newmem.bash
+
+ 9985 vladisl+  20   0  977896 972372   3008 R  86.4   7.5   0:25.35 newmem.bash
+ 9993 vladisl+  20   0  937900 932532   3044 R  50.0   7.2   0:24.55 newmem.bash
+ 9986 vladisl+  20   0  936448 930692   2772 R  68.2   7.2   0:23.80 newmem.bash
+ 9987 vladisl+  20   0  933016 927464   2984 R  68.2   7.2   0:24.74 newmem.bash
+ 9989 vladisl+  20   0  921136 915640   3044 R  50.0   7.1   0:24.75 newmem.bash
+
+ 9985 vladisl+  20   0 1002712 997188   3008 R  79.3   7.7   0:26.37 newmem.bash
+ 9986 vladisl+  20   0  959284 953396   2772 R  72.4   7.4   0:24.77 newmem.bash
+ 9993 vladisl+  20   0  958360 952860   3044 R  65.5   7.4   0:25.41 newmem.bash
+ 9987 vladisl+  20   0  954136 948584   2984 R  69.0   7.4   0:25.68 newmem.bash
+ 9989 vladisl+  20   0  940012 934648   3044 R  75.9   7.2   0:25.60 newmem.bash
+
+ 9985 vladisl+  20   0 1018816 989.5m   3008 R  57.7   7.9   0:27.11 newmem.bash
+ 9986 vladisl+  20   0  971296 965540   2772 R  42.3   7.5   0:25.33 newmem.bash
+ 9993 vladisl+  20   0  969052 963684   3044 R  53.8   7.5   0:25.90 newmem.bash
+ 9987 vladisl+  20   0  965884 960200   2984 R  57.7   7.4   0:26.35 newmem.bash
+ 9989 vladisl+  20   0  950176 944680   3044 R  30.8   7.3   0:26.12 newmem.bash
+
+ 9985 vladisl+  20   0 1037164   1.0g   3008 R  77.8   8.0   0:28.54 newmem.bash
+ 9993 vladisl+  20   0  990304 984804   3044 R  91.7   7.6   0:27.66 newmem.bash
+ 9986 vladisl+  20   0  986872 981116   2772 R  30.6   7.6   0:26.57 newmem.bash
+ 9987 vladisl+  20   0  985024 979472   2984 R  75.0   7.6   0:27.81 newmem.bash
+ 9989 vladisl+  20   0  967072 961576   3044 R  97.2   7.5   0:27.67 newmem.bash
+
+ 9985 vladisl+  20   0 1045612   1.0g   3008 R  58.1   8.1   0:29.53 newmem.bash
+ 9993 vladisl+  20   0  997300 991668   3044 R  87.1   7.7   0:28.47 newmem.bash
+ 9986 vladisl+  20   0  994132 988508   2772 R  41.9   7.7   0:27.68 newmem.bash
+ 9987 vladisl+  20   0  993604 988184   2984 R  83.9   7.7   0:29.07 newmem.bash
+ 9989 vladisl+  20   0  974596 969232   3044 R  77.4   7.5   0:28.64 newmem.bash
+
+ 9985 vladisl+  20   0 1059208   1.0g   3008 R  87.5   8.2   0:30.26 newmem.bash
+ 9993 vladisl+  20   0 1007200 978.2m   3044 R  81.2   7.8   0:29.13 newmem.bash
+ 9987 vladisl+  20   0 1006408 977.4m   2984 R  93.8   7.8   0:29.88 newmem.bash
+ 9986 vladisl+  20   0 1002316 996428   2772 R  43.8   7.7   0:28.19 newmem.bash
+ 9992 vladisl+  20   0  986212 980664   3128 R  93.8   7.6   0:29.98 newmem.bash
+
+ 9985 vladisl+  20   0 1069108   1.0g   3008 R  33.3   8.2   0:31.08 newmem.bash
+ 9987 vladisl+  20   0 1019740 990.3m   2984 R  55.6   7.9   0:30.85 newmem.bash
+ 9993 vladisl+  20   0 1017760 988.5m   3044 R  25.9   7.8   0:30.15 newmem.bash
+ 9986 vladisl+  20   0 1010500 981.1m   2772 R  33.3   7.8   0:28.99 newmem.bash
+ 9992 vladisl+  20   0 1001128 995712   3128 R  51.9   7.7   0:31.09 newmem.bash
+
+ 9985 vladisl+  20   0 1075576   1.0g   3008 R  30.0   8.3   0:31.65 newmem.bash
+ 9993 vladisl+  20   0 1028584 999.1m   3044 R  53.3   7.9   0:30.96 newmem.bash
+ 9987 vladisl+  20   0 1026208 996.7m   2984 R  50.0   7.9   0:31.44 newmem.bash
+ 9986 vladisl+  20   0 1020268 990.9m   2772 R  50.0   7.9   0:29.68 newmem.bash
+ 9992 vladisl+  20   0 1013668 984.8m   3128 R  66.7   7.8   0:32.04 newmem.bash
+
+ 9985 vladisl+  20   0 1085344   1.0g   3008 R  45.5   8.4   0:32.29 newmem.bash
+ 9993 vladisl+  20   0 1041388   1.0g   3044 R  54.5   8.0   0:31.74 newmem.bash
+ 9987 vladisl+  20   0 1036240   1.0g   2984 R  59.1   8.0   0:32.11 newmem.bash
+ 9986 vladisl+  20   0 1029244 999.6m   2772 R  31.8   7.9   0:30.25 newmem.bash
+ 9992 vladisl+  20   0 1026604 997.4m   3128 R  31.8   7.9   0:32.76 newmem.bash
+
+ 9985 vladisl+  20   0 1091416   1.0g   3008 R  10.0   8.4   0:32.67 newmem.bash
+ 9993 vladisl+  20   0 1051156   1.0g   3044 R  60.0   8.1   0:32.61 newmem.bash
+ 9987 vladisl+  20   0 1041256   1.0g   2984 R  40.0   8.0   0:32.52 newmem.bash
+ 9992 vladisl+  20   0 1034920   1.0g   3128 R  60.0   8.0   0:33.53 newmem.bash
+ 9986 vladisl+  20   0 1034524   1.0g   2772 R  75.0   8.0   0:30.91 newmem.bash
+
+ 9985 vladisl+  20   0 1102372   1.0g   3008 R  68.8   8.5   0:33.89 newmem.bash
+ 9993 vladisl+  20   0 1067392   1.0g   3044 R  87.5   8.2   0:34.00 newmem.bash
+ 9987 vladisl+  20   0 1056172   1.0g   2984 R  93.8   8.1   0:33.86 newmem.bash
+ 9992 vladisl+  20   0 1052080   1.0g   3128 R  81.2   8.1   0:34.78 newmem.bash
+ 9986 vladisl+  20   0 1049440   1.0g   2772 R  93.8   8.1   0:32.13 newmem.bash
+
+ 9985 vladisl+  20   0 1110028   1.1g   3008 R  50.0   8.6   0:34.43 newmem.bash
+ 9993 vladisl+  20   0 1075972   1.0g   3044 R  87.5   8.3   0:34.75 newmem.bash
+ 9987 vladisl+  20   0 1065148   1.0g   2984 R 100.0   8.2   0:34.52 newmem.bash
+ 9992 vladisl+  20   0 1060528   1.0g   3128 R  75.0   8.2   0:35.61 newmem.bash
+ 9986 vladisl+  20   0 1057096   1.0g   2772 R  43.8   8.2   0:32.89 newmem.bash
+
+ 9985 vladisl+  20   0 1123360   1.1g   3008 R  66.7   8.7   0:35.83 newmem.bash
+ 9993 vladisl+  20   0 1088512   1.0g   3044 R  72.2   8.4   0:36.35 newmem.bash
+ 9987 vladisl+  20   0 1077028   1.0g   2984 R  50.0   8.3   0:36.14 newmem.bash
+ 9992 vladisl+  20   0 1073992   1.0g   3128 R  77.8   8.3   0:37.12 newmem.bash
+ 9986 vladisl+  20   0 1069900   1.0g   2772 R  66.7   8.3   0:34.78 newmem.bash
+
+ 9985 vladisl+  20   0 1133260   1.1g   3008 R  86.7   8.7   0:37.11 newmem.bash
+ 9993 vladisl+  20   0 1101448   1.0g   3044 R  93.3   8.5   0:38.06 newmem.bash
+ 9992 vladisl+  20   0 1087984   1.0g   3128 R 100.0   8.4   0:38.81 newmem.bash
+ 9987 vladisl+  20   0 1086268   1.0g   2984 R  53.3   8.4   0:37.31 newmem.bash
+ 9986 vladisl+  20   0 1080988   1.0g   2772 R  53.3   8.3   0:35.89 newmem.bash
+
+ 9985 vladisl+  20   0 1139992   1.1g   3008 R  93.8   8.8   0:37.51 newmem.bash
+ 9993 vladisl+  20   0 1112008   1.1g   3044 R  93.8   8.6   0:38.69 newmem.bash
+ 9992 vladisl+  20   0 1099204   1.0g   3128 R  93.8   8.5   0:39.41 newmem.bash
+ 9987 vladisl+  20   0 1094320   1.0g   2984 R  93.8   8.4   0:37.82 newmem.bash
+ 9986 vladisl+  20   0 1087984   1.0g   2772 R  62.5   8.4   0:36.38 newmem.bash
+
+ 9985 vladisl+  20   0 1146064   1.1g   3008 R  48.1   8.8   0:38.34 newmem.bash
+ 9993 vladisl+  20   0 1120192   1.1g   3044 R  76.9   8.6   0:39.83 newmem.bash
+ 9992 vladisl+  20   0 1106992   1.1g   3128 R  67.3   8.5   0:40.43 newmem.bash
+ 9987 vladisl+  20   0 1100788   1.0g   2984 R  36.5   8.5   0:38.42 newmem.bash
+ 9986 vladisl+  20   0 1093924   1.0g   2772 R  59.6   8.4   0:37.25 newmem.bash
+
+ 9985 vladisl+  20   0 1156624   1.1g   3008 R  90.5   8.9   0:39.30 newmem.bash
+ 9993 vladisl+  20   0 1129696   1.1g   3044 R  85.7   8.7   0:41.06 newmem.bash
+ 9992 vladisl+  20   0 1116100   1.1g   3128 R  81.0   8.6   0:41.63 newmem.bash
+ 9987 vladisl+  20   0 1107784   1.1g   2984 R  23.8   8.5   0:39.42 newmem.bash
+ 9986 vladisl+  20   0 1102636   1.0g   2772 R  85.7   8.5   0:38.14 newmem.bash
+
+ 9985 vladisl+  20   0 1169824   1.1g   3008 R 100.0   9.0   0:41.27 newmem.bash
+ 9993 vladisl+  20   0 1139332   1.1g   3044 R  66.7   8.8   0:42.28 newmem.bash
+ 9992 vladisl+  20   0 1126924   1.1g   3128 R  80.0   8.7   0:43.10 newmem.bash
+ 9987 vladisl+  20   0 1119268   1.1g   2984 R  60.0   8.6   0:40.71 newmem.bash
+ 9986 vladisl+  20   0 1116760   1.1g   2772 R  73.3   8.6   0:39.49 newmem.bash
+
+ 9985 vladisl+  20   0 1182232   1.1g   3008 R 100.0   9.1   0:41.87 newmem.bash
+ 9993 vladisl+  20   0 1148176   1.1g   3044 R  53.3   8.9   0:42.74 newmem.bash
+ 9992 vladisl+  20   0 1134844   1.1g   3128 R 100.0   8.8   0:43.49 newmem.bash
+ 9987 vladisl+  20   0 1127584   1.1g   2984 R  53.3   8.7   0:41.09 newmem.bash
+ 9986 vladisl+  20   0 1127188   1.1g   2772 R  93.3   8.7   0:39.97 newmem.bash
+
+ 9985 vladisl+  20   0 1192000   1.1g   3008 R  66.7   9.2   0:42.51 newmem.bash
+ 9993 vladisl+  20   0 1154908   1.1g   3044 R  44.4   8.9   0:43.17 newmem.bash
+ 9992 vladisl+  20   0 1141180   1.1g   3128 R  51.9   8.8   0:43.92 newmem.bash
+ 9986 vladisl+  20   0 1136428   1.1g   2772 R  51.9   8.8   0:40.54 newmem.bash
+ 9987 vladisl+  20   0 1134316   1.1g   2984 R  51.9   8.8   0:41.53 newmem.bash
+
+ 9985 vladisl+  20   0 1203484   1.1g   3008 R  31.1   9.3   0:44.89 newmem.bash
+ 9993 vladisl+  20   0 1163752   1.1g   3044 R   0.0   9.0   0:45.29 newmem.bash
+ 9992 vladisl+  20   0 1150684   1.1g   3128 R  49.2   8.9   0:46.44 newmem.bash
+ 9986 vladisl+  20   0 1148836   1.1g   2772 R  49.2   8.9   0:43.69 newmem.bash
+ 9987 vladisl+  20   0 1146064   1.1g   2984 R  37.7   8.8   0:44.22 newmem.bash
+
+ 9985 vladisl+  20   0 1214044   1.2g   3008 R  46.4   9.4   0:47.88 newmem.bash
+ 9993 vladisl+  20   0 1171408   1.1g   3044 R  52.2   9.0   0:47.65 newmem.bash
+ 9986 vladisl+  20   0 1158868   1.1g   2772 R  81.2   8.9   0:46.82 newmem.bash
+ 9992 vladisl+  20   0 1158076   1.1g   3128 R  26.1   8.9   0:48.51 newmem.bash
+ 9987 vladisl+  20   0 1156888   1.1g   2984 R  59.4   8.9   0:47.62 newmem.bash
+
+ 9985 vladisl+  20   0 1227772   1.2g   3008 R  73.3   9.5   0:50.78 newmem.bash
+ 9993 vladisl+  20   0 1185532   1.1g   3044 R 100.0   9.2   0:50.39 newmem.bash
+ 9987 vladisl+  20   0 1172068   1.1g   2984 R  93.3   9.0   0:50.16 newmem.bash
+ 9986 vladisl+  20   0 1170880   1.1g   2772 R  86.7   9.0   0:48.45 newmem.bash
+ 9992 vladisl+  20   0 1169956   1.1g   3128 R  73.3   9.0   0:51.03 newmem.bash
+
+ 9985 vladisl+  20   0 1240048   1.2g   3008 R  93.8   9.6   0:51.19 newmem.bash
+ 9993 vladisl+  20   0 1200712   1.1g   3044 R  81.2   9.3   0:50.90 newmem.bash
+ 9992 vladisl+  20   0 1184080   1.1g   3128 R  87.5   9.1   0:51.50 newmem.bash
+ 9986 vladisl+  20   0 1182100   1.1g   2772 R  93.8   9.1   0:48.84 newmem.bash
+ 9987 vladisl+  20   0 1180252   1.1g   2984 R  50.0   9.1   0:50.43 newmem.bash
+
+ 9985 vladisl+  20   0 1251532   1.2g   3008 R  56.2   9.7   0:51.71 newmem.bash
+ 9993 vladisl+  20   0 1210612   1.1g   3044 R  87.5   9.3   0:51.33 newmem.bash
+ 9992 vladisl+  20   0 1193716   1.1g   3128 R  68.8   9.2   0:51.92 newmem.bash
+ 9987 vladisl+  20   0 1193320   1.1g   2984 R  93.8   9.2   0:50.97 newmem.bash
+ 9986 vladisl+  20   0 1193452   1.1g   2772 R  43.8   9.2   0:49.32 newmem.bash
+
+ 9985 vladisl+  20   0 1262356   1.2g   3008 R  81.2   9.7   0:52.14 newmem.bash
+ 9993 vladisl+  20   0 1223944   1.2g   3044 R 100.0   9.4   0:51.84 newmem.bash
+ 9986 vladisl+  20   0 1207312   1.1g   2772 R 100.0   9.3   0:49.88 newmem.bash
+ 9987 vladisl+  20   0 1206784   1.1g   2984 R  93.8   9.3   0:51.52 newmem.bash
+ 9992 vladisl+  20   0 1203088   1.1g   3128 R  93.8   9.3   0:52.31 newmem.bash
+
+ 9985 vladisl+  20   0 1273048   1.2g   3008 R 100.0   9.8   0:52.56 newmem.bash
+ 9993 vladisl+  20   0 1234108   1.2g   3044 R 100.0   9.5   0:52.22 newmem.bash
+ 9987 vladisl+  20   0 1218796   1.2g   2984 R 100.0   9.4   0:51.99 newmem.bash
+ 9986 vladisl+  20   0 1216420   1.2g   2772 R  60.0   9.4   0:50.25 newmem.bash
+ 9992 vladisl+  20   0 1212328   1.2g   3128 R  46.7   9.4   0:52.65 newmem.bash
+
+ 9985 vladisl+  20   0 1285324   1.2g   3008 R  53.3   9.9   0:53.02 newmem.bash
+ 9993 vladisl+  20   0 1242820   1.2g   3044 R  86.7   9.6   0:52.55 newmem.bash
+ 9987 vladisl+  20   0 1233052   1.2g   2984 R 100.0   9.5   0:52.54 newmem.bash
+ 9986 vladisl+  20   0 1229092   1.2g   2772 R 100.0   9.5   0:50.71 newmem.bash
+ 9992 vladisl+  20   0 1222360   1.2g   3128 R  66.7   9.4   0:53.03 newmem.bash
+
+ 9985 vladisl+  20   0 1295224   1.2g   3008 R  53.3  10.0   0:53.39 newmem.bash
+ 9993 vladisl+  20   0 1257076   1.2g   3044 R 100.0   9.7   0:53.04 newmem.bash
+ 9987 vladisl+  20   0 1248892   1.2g   2984 R 100.0   9.6   0:53.11 newmem.bash
+ 9986 vladisl+  20   0 1243084   1.2g   2772 R  93.3   9.6   0:51.19 newmem.bash
+ 9992 vladisl+  20   0 1231996   1.2g   3128 R  53.3   9.5   0:53.37 newmem.bash
+
+ 9985 vladisl+  20   0 1301428   1.2g   3008 R  66.7  10.0   0:54.23 newmem.bash
+ 9993 vladisl+  20   0 1266712   1.2g   3044 R  55.6   9.8   0:54.30 newmem.bash
+ 9987 vladisl+  20   0 1259716   1.2g   2984 R  69.4   9.7   0:54.37 newmem.bash
+ 9986 vladisl+  20   0 1249684   1.2g   2772 R  63.9   9.6   0:52.27 newmem.bash
+ 9992 vladisl+  20   0 1240840   1.2g   3128 R  25.0   9.6   0:54.38 newmem.bash
+
+ 9985 vladisl+  20   0 1308688   1.2g   3008 R  77.8  10.1   0:55.00 newmem.bash
+ 9993 vladisl+  20   0 1274368   1.2g   3044 R  72.2   9.8   0:55.03 newmem.bash
+ 9987 vladisl+  20   0 1265656   1.2g   2984 R  88.9   9.8   0:54.99 newmem.bash
+ 9986 vladisl+  20   0 1258132   1.2g   2772 R 100.0   9.7   0:53.07 newmem.bash
+ 9992 vladisl+  20   0 1247704   1.2g   3128 R  83.3   9.6   0:55.15 newmem.bash
+
+ 9985 vladisl+  20   0 1315420   1.2g   3008 R  43.5  10.2   0:57.57 newmem.bash
+ 9993 vladisl+  20   0 1279780   1.2g   3044 R  43.5   9.9   0:57.25 newmem.bash
+ 9987 vladisl+  20   0 1273180   1.2g   2984 R  65.2   9.8   0:57.72 newmem.bash
+ 9986 vladisl+  20   0 1263148   1.2g   2772 R  65.2   9.8   0:55.69 newmem.bash
+ 9992 vladisl+  20   0 1255888   1.2g   3128 R  69.6   9.7   0:58.11 newmem.bash
+
+ 9993 vladisl+  20   0 1520548   1.1g   1232 R  70.6   8.8   1:11.80 newmem.bash
+ 9984 vladisl+  20   0 1514872   1.1g   1148 R  94.1   8.8   1:13.61 newmem.bash
+ 9987 vladisl+  20   0 1484116   1.1g   1180 R  82.4   8.8   1:11.38 newmem.bash
+ 9989 vladisl+  20   0 1466164   1.0g   1192 R  41.2   8.2   1:11.33 newmem.bash
+  158 vladisl+  20   0  764784   6372      0 S   0.0   0.0   0:58.07 docker
+
+ 9993 vladisl+  20   0 1541668   1.1g   1232 R 100.0   9.0   1:12.23 newmem.bash
+ 9984 vladisl+  20   0 1538236   1.1g   1148 R 100.0   9.0   1:14.07 newmem.bash
+ 9987 vladisl+  20   0 1507216   1.1g   1180 R 100.0   9.0   1:11.82 newmem.bash
+ 9989 vladisl+  20   0 1487680   1.0g   1192 R 100.0   8.4   1:11.75 newmem.bash
+  158 vladisl+  20   0  764784   6372      0 S   0.0   0.0   0:58.07 docker
+
+ 9993 vladisl+  20   0 1565032   1.1g   1232 R 100.0   9.2   1:12.65 newmem.bash
+ 9984 vladisl+  20   0 1561864   1.1g   1148 R 100.0   9.2   1:14.48 newmem.bash
+ 9987 vladisl+  20   0 1531240   1.1g   1180 R 100.0   9.2   1:12.24 newmem.bash
+ 9989 vladisl+  20   0 1510120   1.1g   1192 R 100.0   8.6   1:12.17 newmem.bash
+  158 vladisl+  20   0  764784   6372      0 S   0.0   0.0   0:58.07 docker
+
+ 9984 vladisl+  20   0 1591696   1.2g   1148 R 100.0   9.4   1:14.98 newmem.bash
+ 9993 vladisl+  20   0 1590376   1.2g   1232 R 100.0   9.4   1:13.14 newmem.bash
+ 9987 vladisl+  20   0 1550116   1.1g   1180 R 100.0   9.3   1:12.74 newmem.bash
+ 9989 vladisl+  20   0 1530184   1.1g   1192 R 100.0   8.7   1:12.66 newmem.bash
+  158 vladisl+  20   0  764784   6372      0 S   0.0   0.0   0:58.07 docker
+
+ 9993 vladisl+  20   0 1610176   1.2g   1232 R 100.0   9.5   1:13.56 newmem.bash
+ 9984 vladisl+  20   0 1608724   1.2g   1148 R 100.0   9.5   1:15.40 newmem.bash
+ 9987 vladisl+  20   0 1569124   1.2g   1180 R 100.0   9.4   1:13.15 newmem.bash
+ 9989 vladisl+  20   0 1547212   1.1g   1192 R 100.0   8.9   1:13.08 newmem.bash
+  158 vladisl+  20   0  764784   6372      0 S   0.0   0.0   0:58.07 docker
+
+ 9993 vladisl+  20   0 1627204   1.2g   1232 R 100.0   9.7   1:13.98 newmem.bash
+ 9984 vladisl+  20   0 1625224   1.2g   1148 R 100.0   9.7   1:15.82 newmem.bash
+ 9987 vladisl+  20   0 1585360   1.2g   1180 R 100.0   9.6   1:13.57 newmem.bash
+ 9989 vladisl+  20   0 1563976   1.1g   1192 R 100.0   9.0   1:13.49 newmem.bash
+  158 vladisl+  20   0  764784   6372      0 S   0.0   0.0   0:58.07 docker
+
+ 9987 vladisl+  20   0 1603444   1.2g   1180 R 100.0   9.7   1:13.99 newmem.bash
+ 9989 vladisl+  20   0 1584832   1.1g   1192 R 100.0   9.1   1:13.92 newmem.bash
+  158 vladisl+  20   0  764784   6372      0 S   0.0   0.0   0:58.07 docker
+  144 root      20   0 1680396   3896      0 S   0.0   0.0   0:13.39 docker-desktop-
+11306 vladisl+  20   0   10872   3620   3164 R   0.0   0.0   0:00.00 top
+
+ 9987 vladisl+  20   0 1624828   1.2g   1180 R 100.0   9.9   1:14.41 newmem.bash
+ 9989 vladisl+  20   0 1606612   1.1g   1192 R 100.0   9.3   1:14.34 newmem.bash
+  158 vladisl+  20   0  764784   6372      0 S   0.0   0.0   0:58.07 docker
+  144 root      20   0 1680396   3896      0 S   0.0   0.0   0:13.39 docker-desktop-
+11320 vladisl+  20   0   10868   3632   3176 R   0.0   0.0   0:00.00 top
+
+ 9989 vladisl+  20   0 1626940   1.2g   1192 R 100.0   9.5   1:14.76 newmem.bash
+  158 vladisl+  20   0  764784   6372      0 S   0.0   0.0   0:58.07 docker
+  144 root      20   0 1680396   3896      0 S   0.0   0.0   0:13.39 docker-desktop-
+11334 vladisl+  20   0   10868   3556   3096 R   0.0   0.0   0:00.00 top
+10742 vladisl+  20   0   15436   2996     28 T   0.0   0.0   0:01.33 command-not-fou
+
+  158 vladisl+  20   0  764784   6372      0 S   0.0   0.0   0:58.07 docker
+  144 root      20   0 1680396   3896      0 S   0.0   0.0   0:13.39 docker-desktop-
+11348 vladisl+  20   0   10868   3616   3160 R  27.3   0.0   0:00.06 top
+10742 vladisl+  20   0   15436   2996     28 T   0.0   0.0   0:01.33 command-not-fou
+11215 vladisl+  20   0   10876   2004   1404 S   0.0   0.0   0:06.01 top
+
+  158 vladisl+  20   0  764784   6372      0 S   0.0   0.0   0:58.07 docker
+  144 root      20   0 1680396   3896      0 S   0.0   0.0   0:13.39 docker-desktop-
+11362 vladisl+  20   0   10868   3628   3168 R   0.0   0.0   0:00.00 top
+10742 vladisl+  20   0   15436   2996     28 T   0.0   0.0   0:01.33 command-not-fou
+11215 vladisl+  20   0   10876   2004   1404 S   0.0   0.0   0:06.01 top
+
+  158 vladisl+  20   0  764784   6372      0 S   0.0   0.0   0:58.07 docker
+  144 root      20   0 1680396   3896      0 S   0.0   0.0   0:13.39 docker-desktop-
+11376 vladisl+  20   0   10868   3632   3172 R  13.3   0.0   0:00.04 top
+10742 vladisl+  20   0   15436   2996     28 T   0.0   0.0   0:01.33 command-not-fou
+11215 vladisl+  20   0   10876   2004   1404 S   0.0   0.0   0:06.01 top
+
+  158 vladisl+  20   0  764784   6372      0 S   0.0   0.0   0:58.07 docker
+  144 root      20   0 1680396   3896      0 S   0.0   0.0   0:13.39 docker-desktop-
+11390 vladisl+  20   0   10868   3560   3104 R   0.0   0.0   0:00.00 top
+10742 vladisl+  20   0   15436   2996     28 T   0.0   0.0   0:01.33 command-not-fou
+11215 vladisl+  20   0   10876   2004   1404 S   0.0   0.0   0:06.01 top
+
+  158 vladisl+  20   0  764784   6372      0 S   0.0   0.0   0:58.07 docker
+  144 root      20   0 1680396   3896      0 S   0.0   0.0   0:13.39 docker-desktop-
+11404 vladisl+  20   0   10868   3604   3148 R   0.0   0.0   0:00.00 top
+10742 vladisl+  20   0   15436   2996     28 T   0.0   0.0   0:01.33 command-not-fou
+11215 vladisl+  20   0   10876   2004   1404 S   0.0   0.0   0:06.02 top
+
+  158 vladisl+  20   0  764784   6372      0 S   0.0   0.0   0:58.07 docker
+  144 root      20   0 1680396   3896      0 S   0.0   0.0   0:13.39 docker-desktop-
+11418 vladisl+  20   0   10868   3568   3108 R   0.0   0.0   0:00.00 top
+10742 vladisl+  20   0   15436   2996     28 T   0.0   0.0   0:01.33 command-not-fou
+11215 vladisl+  20   0   10876   2004   1404 S   0.0   0.0   0:06.02 top
+
+  158 vladisl+  20   0  764784   6372      0 S   0.0   0.0   0:58.07 docker
+  144 root      20   0 1680396   3896      0 S   0.0   0.0   0:13.39 docker-desktop-
+11432 vladisl+  20   0   10868   3632   3176 R   0.0   0.0   0:00.00 top
+10742 vladisl+  20   0   15436   2996     28 T   0.0   0.0   0:01.33 command-not-fou
+11215 vladisl+  20   0   10876   2004   1404 S   0.0   0.0   0:06.02 top
+
+  158 vladisl+  20   0  764784   6372      0 S   0.0   0.0   0:58.07 docker
+  144 root      20   0 1680396   3896      0 S   0.0   0.0   0:13.39 docker-desktop-
+11446 vladisl+  20   0   10868   3628   3172 R   0.0   0.0   0:00.00 top
+10742 vladisl+  20   0   15436   2996     28 T   0.0   0.0   0:01.33 command-not-fou
+11215 vladisl+  20   0   10876   2004   1404 S   0.0   0.0   0:06.02 top
+
+  158 vladisl+  20   0  764784   6372      0 S   0.0   0.0   0:58.07 docker
+  144 root      20   0 1680396   3896      0 S   0.0   0.0   0:13.39 docker-desktop-
+11460 vladisl+  20   0   10868   3604   3148 R   0.0   0.0   0:00.01 top
+10742 vladisl+  20   0   15436   2996     28 T   0.0   0.0   0:01.33 command-not-fou
+11215 vladisl+  20   0   10876   2004   1404 S   0.0   0.0   0:06.02 top
+
+  158 vladisl+  20   0  764784   6372      0 S   0.0   0.0   0:58.07 docker
+  144 root      20   0 1680396   3896      0 S   0.0   0.0   0:13.39 docker-desktop-
+11474 vladisl+  20   0   10868   3632   3176 R   0.0   0.0   0:00.00 top
+10742 vladisl+  20   0   15436   2996     28 T   0.0   0.0   0:01.33 command-not-fou
+11215 vladisl+  20   0   10876   2004   1404 S   0.0   0.0   0:06.02 top
+
+  158 vladisl+  20   0  764784   6372      0 S   0.0   0.0   0:58.07 docker
+  144 root      20   0 1680396   3896      0 S   0.0   0.0   0:13.39 docker-desktop-
+11488 vladisl+  20   0   10868   3632   3172 R   0.0   0.0   0:00.00 top
+10742 vladisl+  20   0   15436   2996     28 T   0.0   0.0   0:01.33 command-not-fou
+11215 vladisl+  20   0   10876   2004   1404 S   0.0   0.0   0:06.02 top
+
+  158 vladisl+  20   0  764784   6372      0 S   0.0   0.0   0:58.07 docker
+  144 root      20   0 1680396   3896      0 S   0.0   0.0   0:13.39 docker-desktop-
+11502 vladisl+  20   0   10868   3632   3172 R   0.0   0.0   0:00.00 top
+10742 vladisl+  20   0   15436   2996     28 T   0.0   0.0   0:01.33 command-not-fou
+11215 vladisl+  20   0   10876   2004   1404 S   0.0   0.0   0:06.02 top
+
+  158 vladisl+  20   0  764784   6372      0 S   0.0   0.0   0:58.07 docker
+  144 root      20   0 1680396   3896      0 S   0.0   0.0   0:13.39 docker-desktop-
+11516 vladisl+  20   0   10868   3632   3176 R   0.0   0.0   0:00.00 top
+10742 vladisl+  20   0   15436   2996     28 T   0.0   0.0   0:01.33 command-not-fou
+11215 vladisl+  20   0   10876   2004   1404 S   0.0   0.0   0:06.02 top
+
+  158 vladisl+  20   0  764784   6372      0 S   0.0   0.0   0:58.07 docker
+  144 root      20   0 1680396   3896      0 S   0.0   0.0   0:13.39 docker-desktop-
+11530 vladisl+  20   0   10868   3620   3160 R   0.0   0.0   0:00.00 top
+10742 vladisl+  20   0   15436   2996     28 T   0.0   0.0   0:01.33 command-not-fou
+11215 vladisl+  20   0   10876   2004   1404 S   0.0   0.0   0:06.02 top
+
+  158 vladisl+  20   0  764784   6372      0 S   0.0   0.0   0:58.07 docker
+  144 root      20   0 1680396   3896      0 S   0.0   0.0   0:13.39 docker-desktop-
+11544 vladisl+  20   0   10868   3636   3176 R   0.0   0.0   0:00.00 top
+10742 vladisl+  20   0   15436   2996     28 T   0.0   0.0   0:01.33 command-not-fou
+11215 vladisl+  20   0   10876   2004   1404 S   0.0   0.0   0:06.02 top
+
+  158 vladisl+  20   0  764784   6372      0 S   0.0   0.0   0:58.07 docker
+  144 root      20   0 1680396   3896      0 S   0.0   0.0   0:13.39 docker-desktop-
+11558 vladisl+  20   0   10868   3560   3104 R   0.0   0.0   0:00.00 top
+10742 vladisl+  20   0   15436   2996     28 T   0.0   0.0   0:01.33 command-not-fou
+11215 vladisl+  20   0   10876   2004   1404 S   0.0   0.0   0:06.02 top
+
+  158 vladisl+  20   0  764784   6372      0 S   0.0   0.0   0:58.07 docker
+  144 root      20   0 1680396   3896      0 S   0.0   0.0   0:13.39 docker-desktop-
+11572 vladisl+  20   0   10868   3564   3104 R   0.0   0.0   0:00.00 top
+10742 vladisl+  20   0   15436   2996     28 T   0.0   0.0   0:01.33 command-not-fou
+11215 vladisl+  20   0   10876   2004   1404 S   0.0   0.0   0:06.02 top
+
+  158 vladisl+  20   0  764784   6372      0 S   0.0   0.0   0:58.07 docker
+  144 root      20   0 1680396   3896      0 S   0.0   0.0   0:13.39 docker-desktop-
+11586 vladisl+  20   0   10868   3632   3176 R   0.0   0.0   0:00.00 top
+10742 vladisl+  20   0   15436   2996     28 T   0.0   0.0   0:01.33 command-not-fou
+11215 vladisl+  20   0   10876   2004   1404 S   0.0   0.0   0:06.02 top
+
+  158 vladisl+  20   0  764784   6372      0 S   0.0   0.0   0:58.07 docker
+  144 root      20   0 1680396   3896      0 S   0.0   0.0   0:13.39 docker-desktop-
+11600 vladisl+  20   0   10868   3568   3108 R   0.0   0.0   0:00.02 top
+10742 vladisl+  20   0   15436   2996     28 T   0.0   0.0   0:01.33 command-not-fou
+11215 vladisl+  20   0   10876   2004   1404 S   0.0   0.0   0:06.02 top
+
+  158 vladisl+  20   0  764784   6372      0 S   0.0   0.0   0:58.07 docker
+  144 root      20   0 1680396   3896      0 S   0.0   0.0   0:13.39 docker-desktop-
+11614 vladisl+  20   0   10868   3564   3108 R   0.0   0.0   0:00.00 top
+10742 vladisl+  20   0   15436   2996     28 T   0.0   0.0   0:01.33 command-not-fou
+11215 vladisl+  20   0   10876   2004   1404 S   0.0   0.0   0:06.02 top
+
+  158 vladisl+  20   0  764784   6372      0 S   0.0   0.0   0:58.07 docker
+  144 root      20   0 1680396   3896      0 S   0.0   0.0   0:13.39 docker-desktop-
+11628 vladisl+  20   0   10868   3556   3100 R   0.0   0.0   0:00.00 top
+10742 vladisl+  20   0   15436   2996     28 T   0.0   0.0   0:01.33 command-not-fou
+11215 vladisl+  20   0   10876   2004   1404 S   0.0   0.0   0:06.02 top
+
+  158 vladisl+  20   0  764784   6372      0 S   0.0   0.0   0:58.07 docker
+  144 root      20   0 1680396   3896      0 S   0.0   0.0   0:13.39 docker-desktop-
+11642 vladisl+  20   0   10868   3560   3104 R   0.0   0.0   0:00.00 top
+10742 vladisl+  20   0   15436   2996     28 T   0.0   0.0   0:01.33 command-not-fou
+11215 vladisl+  20   0   10876   2004   1404 S   0.0   0.0   0:06.02 top
+
+  158 vladisl+  20   0  764784   6372      0 S   0.0   0.0   0:58.07 docker
+  144 root      20   0 1680396   3896      0 S   0.0   0.0   0:13.39 docker-desktop-
+11656 vladisl+  20   0   10868   3632   3176 R   0.0   0.0   0:00.01 top
+10742 vladisl+  20   0   15436   2996     28 T   0.0   0.0   0:01.33 command-not-fou
+11215 vladisl+  20   0   10876   2004   1404 S   0.0   0.0   0:06.02 top
+
+  158 vladisl+  20   0  764784   6372      0 S   0.0   0.0   0:58.07 docker
+  144 root      20   0 1680396   3896      0 S   0.0   0.0   0:13.39 docker-desktop-
+11670 vladisl+  20   0   10868   3564   3108 R   0.0   0.0   0:00.00 top
+10742 vladisl+  20   0   15436   2996     28 T   0.0   0.0   0:01.33 command-not-fou
+11215 vladisl+  20   0   10876   2004   1404 S   0.0   0.0   0:06.02 top
+
+  158 vladisl+  20   0  764784   6372      0 S   0.0   0.0   0:58.07 docker
+  144 root      20   0 1680396   3896      0 S   0.0   0.0   0:13.39 docker-desktop-
+11684 vladisl+  20   0   10868   3624   3168 R   0.0   0.0   0:00.01 top
+10742 vladisl+  20   0   15436   2996     28 T   0.0   0.0   0:01.33 command-not-fou
+11215 vladisl+  20   0   10876   2004   1404 S   0.0   0.0   0:06.03 top
+
+  158 vladisl+  20   0  764784   6372      0 S   0.0   0.0   0:58.07 docker
+  144 root      20   0 1680396   3896      0 S   0.0   0.0   0:13.39 docker-desktop-
+11698 vladisl+  20   0   10868   3576   3116 R   0.0   0.0   0:00.03 top
+10742 vladisl+  20   0   15436   2996     28 T   0.0   0.0   0:01.33 command-not-fou
+11215 vladisl+  20   0   10876   2004   1404 S   0.0   0.0   0:06.03 top
+
+  158 vladisl+  20   0  764784   6372      0 S   0.0   0.0   0:58.07 docker
+  144 root      20   0 1680396   3896      0 S   0.0   0.0   0:13.39 docker-desktop-
+11712 vladisl+  20   0   10868   3560   3100 R   0.0   0.0   0:00.00 top
+10742 vladisl+  20   0   15436   2996     28 T   0.0   0.0   0:01.33 command-not-fou
+11215 vladisl+  20   0   10876   2004   1404 S   0.0   0.0   0:06.03 top
+
+  158 vladisl+  20   0  764784   6372      0 S   0.0   0.0   0:58.07 docker
+  144 root      20   0 1680396   3896      0 S   0.0   0.0   0:13.39 docker-desktop-
+11726 vladisl+  20   0   10868   3556   3100 R   0.0   0.0   0:00.00 top
+10742 vladisl+  20   0   15436   2996     28 T   0.0   0.0   0:01.33 command-not-fou
+11215 vladisl+  20   0   10876   2004   1404 S   0.0   0.0   0:06.03 top
+
+  158 vladisl+  20   0  764784   6372      0 S   0.0   0.0   0:58.07 docker
+  144 root      20   0 1680396   3896      0 S   0.0   0.0   0:13.39 docker-desktop-
+11740 vladisl+  20   0   10868   3628   3172 R   0.0   0.0   0:00.02 top
+10742 vladisl+  20   0   15436   2996     28 T   0.0   0.0   0:01.33 command-not-fou
+11215 vladisl+  20   0   10876   2004   1404 S   0.0   0.0   0:06.03 top
+
+  158 vladisl+  20   0  764784   6372      0 S   0.0   0.0   0:58.07 docker
+  144 root      20   0 1680396   3896      0 S   0.0   0.0   0:13.39 docker-desktop-
+11754 vladisl+  20   0   10868   3592   3132 R   0.0   0.0   0:00.00 top
+10742 vladisl+  20   0   15436   2996     28 T   0.0   0.0   0:01.33 command-not-fou
+11215 vladisl+  20   0   10876   2004   1404 S   0.0   0.0   0:06.03 top
+
+  158 vladisl+  20   0  764784   6372      0 S   0.0   0.0   0:58.07 docker
+  144 root      20   0 1680396   3896      0 S   0.0   0.0   0:13.39 docker-desktop-
+11768 vladisl+  20   0   10868   3516   3060 R   0.0   0.0   0:00.00 top
+10742 vladisl+  20   0   15436   2996     28 T   0.0   0.0   0:01.33 command-not-fou
+11215 vladisl+  20   0   10876   2004   1404 S   0.0   0.0   0:06.03 top
+
+  158 vladisl+  20   0  764784   6372      0 S   0.0   0.0   0:58.07 docker
+  144 root      20   0 1680396   3896      0 S   0.0   0.0   0:13.39 docker-desktop-
+11782 vladisl+  20   0   10868   3572   3112 R   0.0   0.0   0:00.00 top
+10742 vladisl+  20   0   15436   2996     28 T   0.0   0.0   0:01.33 command-not-fou
+11215 vladisl+  20   0   10876   2004   1404 S   0.0   0.0   0:06.03 top
+
+  158 vladisl+  20   0  764784   6372      0 S   0.0   0.0   0:58.07 docker
+  144 root      20   0 1680396   3896      0 S   0.0   0.0   0:13.39 docker-desktop-
+11796 vladisl+  20   0   10868   3568   3108 R   0.0   0.0   0:00.00 top
+10742 vladisl+  20   0   15436   2996     28 T   0.0   0.0   0:01.33 command-not-fou
+11215 vladisl+  20   0   10876   2004   1404 S   0.0   0.0   0:06.03 top
+
+  158 vladisl+  20   0  764784   6372      0 S   0.0   0.0   0:58.07 docker
+  144 root      20   0 1680396   3896      0 S   0.0   0.0   0:13.39 docker-desktop-
+11810 vladisl+  20   0   10868   3620   3160 R   0.0   0.0   0:00.00 top
+10742 vladisl+  20   0   15436   2996     28 T   0.0   0.0   0:01.33 command-not-fou
+11215 vladisl+  20   0   10876   2004   1404 S   0.0   0.0   0:06.03 top
+
+  158 vladisl+  20   0  764784   6372      0 S   0.0   0.0   0:58.07 docker
+  144 root      20   0 1680396   3896      0 S   0.0   0.0   0:13.39 docker-desktop-
+11824 vladisl+  20   0   10868   3588   3132 R   0.0   0.0   0:00.00 top
+10742 vladisl+  20   0   15436   2996     28 T   0.0   0.0   0:01.33 command-not-fou
+11215 vladisl+  20   0   10876   2004   1404 S   0.0   0.0   0:06.03 top
+
+  158 vladisl+  20   0  764784   6372      0 S   0.0   0.0   0:58.07 docker
+  144 root      20   0 1680396   3896      0 S   0.0   0.0   0:13.39 docker-desktop-
+11838 vladisl+  20   0   10868   3624   3168 R   0.0   0.0   0:00.00 top
+10742 vladisl+  20   0   15436   2996     28 T   0.0   0.0   0:01.33 command-not-fou
+11215 vladisl+  20   0   10876   2004   1404 S   0.0   0.0   0:06.03 top
+
+  158 vladisl+  20   0  764784   6372      0 S   0.0   0.0   0:58.07 docker
+  144 root      20   0 1680396   3896      0 S   0.0   0.0   0:13.39 docker-desktop-
+11852 vladisl+  20   0   10868   3528   3072 R   0.0   0.0   0:00.00 top
+10742 vladisl+  20   0   15436   2996     28 T   0.0   0.0   0:01.33 command-not-fou
+11215 vladisl+  20   0   10876   2004   1404 S   0.0   0.0   0:06.03 top
+
+  158 vladisl+  20   0  764784   6372      0 S   0.0   0.0   0:58.07 docker
+  144 root      20   0 1680396   3896      0 S   0.0   0.0   0:13.39 docker-desktop-
+11866 vladisl+  20   0   10868   3564   3108 R   0.0   0.0   0:00.00 top
+10742 vladisl+  20   0   15436   2996     28 T   0.0   0.0   0:01.33 command-not-fou
+11215 vladisl+  20   0   10876   2004   1404 S   0.0   0.0   0:06.03 top
+
+  158 vladisl+  20   0  764784   6372      0 S   0.0   0.0   0:58.07 docker
+  144 root      20   0 1680396   3896      0 S   0.0   0.0   0:13.39 docker-desktop-
+11880 vladisl+  20   0   10868   3564   3108 R   0.0   0.0   0:00.00 top
+10742 vladisl+  20   0   15436   2996     28 T   0.0   0.0   0:01.33 command-not-fou
+11215 vladisl+  20   0   10876   2004   1404 S   0.0   0.0   0:06.03 top
+
+  158 vladisl+  20   0  764784   6372      0 S   0.0   0.0   0:58.07 docker
+  144 root      20   0 1680396   3896      0 S   0.0   0.0   0:13.39 docker-desktop-
+11894 vladisl+  20   0   10868   3632   3172 R   0.0   0.0   0:00.00 top
+10742 vladisl+  20   0   15436   2996     28 T   0.0   0.0   0:01.33 command-not-fou
+11215 vladisl+  20   0   10876   2004   1404 S   0.0   0.0   0:06.03 top
+
+  158 vladisl+  20   0  764784   6372      0 S   0.0   0.0   0:58.07 docker
+  144 root      20   0 1680396   3896      0 S   0.0   0.0   0:13.39 docker-desktop-
+11908 vladisl+  20   0   10868   3592   3132 R   0.0   0.0   0:00.00 top
+10742 vladisl+  20   0   15436   2996     28 T   0.0   0.0   0:01.33 command-not-fou
+11215 vladisl+  20   0   10876   2004   1404 S   0.0   0.0   0:06.03 top
+
+  158 vladisl+  20   0  764784   6372      0 S   0.0   0.0   0:58.07 docker
+  144 root      20   0 1680396   3896      0 S   0.0   0.0   0:13.39 docker-desktop-
+11922 vladisl+  20   0   10868   3624   3168 R   0.0   0.0   0:00.00 top
+10742 vladisl+  20   0   15436   2996     28 T   0.0   0.0   0:01.33 command-not-fou
+11215 vladisl+  20   0   10876   2004   1404 S   0.0   0.0   0:06.03 top
+
+  158 vladisl+  20   0  764784   6372      0 S   0.0   0.0   0:58.07 docker
+  144 root      20   0 1680396   3896      0 S   0.0   0.0   0:13.39 docker-desktop-
+11936 vladisl+  20   0   10868   3568   3108 R   0.0   0.0   0:00.00 top
+10742 vladisl+  20   0   15436   2996     28 T   0.0   0.0   0:01.33 command-not-fou
+11215 vladisl+  20   0   10876   2004   1404 S   0.0   0.0   0:06.03 top
+
+  158 vladisl+  20   0  764784   6372      0 S   0.0   0.0   0:58.07 docker
+  144 root      20   0 1680396   3896      0 S   0.0   0.0   0:13.39 docker-desktop-
+11950 vladisl+  20   0   10868   3568   3108 R   0.0   0.0   0:00.00 top
+10742 vladisl+  20   0   15436   2996     28 T   0.0   0.0   0:01.33 command-not-fou
+11215 vladisl+  20   0   10876   2004   1404 S   0.0   0.0   0:06.03 top
+
+  158 vladisl+  20   0  764784   6372      0 S   0.0   0.0   0:58.07 docker
+  144 root      20   0 1680396   3896      0 S   0.0   0.0   0:13.39 docker-desktop-
+11964 vladisl+  20   0   10868   3532   3076 R   0.0   0.0   0:00.00 top
+10742 vladisl+  20   0   15436   2996     28 T   0.0   0.0   0:01.33 command-not-fou
+11215 vladisl+  20   0   10876   2004   1404 S   0.0   0.0   0:06.03 top
+
+  158 vladisl+  20   0  764784   6372      0 S   0.0   0.0   0:58.07 docker
+  144 root      20   0 1680396   3896      0 S   0.0   0.0   0:13.39 docker-desktop-
+11978 vladisl+  20   0   10868   3616   3160 R   6.7   0.0   0:00.01 top
+10742 vladisl+  20   0   15436   2996     28 T   0.0   0.0   0:01.33 command-not-fou
+11215 vladisl+  20   0   10876   2004   1404 S   0.0   0.0   0:06.03 top
+
+  158 vladisl+  20   0  764784   6372      0 S   0.0   0.0   0:58.07 docker
+  144 root      20   0 1680396   3896      0 S   0.0   0.0   0:13.39 docker-desktop-
+11992 vladisl+  20   0   10868   3580   3124 R   0.0   0.0   0:00.00 top
+10742 vladisl+  20   0   15436   2996     28 T   0.0   0.0   0:01.33 command-not-fou
+11215 vladisl+  20   0   10876   2004   1404 S   0.0   0.0   0:06.03 top
+
+  158 vladisl+  20   0  764784   6372      0 S   0.0   0.0   0:58.07 docker
+  144 root      20   0 1680396   3896      0 S   0.0   0.0   0:13.39 docker-desktop-
+12006 vladisl+  20   0   10868   3560   3104 R   0.0   0.0   0:00.01 top
+10742 vladisl+  20   0   15436   2996     28 T   0.0   0.0   0:01.33 command-not-fou
+11215 vladisl+  20   0   10876   2004   1404 S   0.0   0.0   0:06.03 top
+
+  158 vladisl+  20   0  764784   6372      0 S   0.0   0.0   0:58.08 docker
+  144 root      20   0 1680396   3896      0 S   0.0   0.0   0:13.39 docker-desktop-
+12020 vladisl+  20   0   10868   3532   3076 R   0.0   0.0   0:00.00 top
+10742 vladisl+  20   0   15436   2996     28 T   0.0   0.0   0:01.33 command-not-fou
+11215 vladisl+  20   0   10876   2004   1404 S   0.0   0.0   0:06.03 top
+
+  158 vladisl+  20   0  764784   6372      0 S   0.0   0.0   0:58.08 docker
+  144 root      20   0 1680396   3896      0 S   0.0   0.0   0:13.39 docker-desktop-
+12034 vladisl+  20   0   10868   3568   3112 R   0.0   0.0   0:00.01 top
+10742 vladisl+  20   0   15436   2996     28 T   0.0   0.0   0:01.33 command-not-fou
+11215 vladisl+  20   0   10876   2004   1404 S   0.0   0.0   0:06.03 top
+
