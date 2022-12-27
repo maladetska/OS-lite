@@ -10,7 +10,7 @@
 #|Name|report|experiments
 ---|---|---|---
 5|[Memory management in Linux OS](https://github.com/maladetska/OS-lite/blob/main/lab5/OS_Lab5.pdf)|[+](https://github.com/maladetska/OS-lite/blob/main/lab5/report/Report.pdf)|[1](https://github.com/maladetska/OS-lite/tree/main/lab5/1experiment), [2](https://github.com/maladetska/OS-lite/tree/main/lab5/2experiment)
-6|Experimental evaluation of operating system performance parameters|1.1, 1.2, 2
+6|Experimental evaluation of operating system performance parameters|-|1.1, 1.2, 2
 
 ------
 01.03.02 ITMO, second year, third term
