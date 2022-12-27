@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+
+: > logs/1step/ram.log
+: > logs/1step/swap.log
+: > logs/1step/params.log
+: > logs/1step/top5.log
+
+while true
+do
+    BOTH=$(free | tail -n2 | awk '{print $4;}')
+    echo "$BOTH" | head -n1 >> logs/1step/ram.log
+    echo "$BOTH" | tail -n1 >> logs/1step/swap.log
+
+    top -b -n1 | grep -m 1 "mem.bash" >> logs/1step/params.log
+
+    top -b -n1 -o %MEM | head -n12 | tail -n5 >> logs/1step/top5.log
+    echo "" >> logs/1step/top5.log
+
+    sleep 0.1s
+
+done

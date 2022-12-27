@@ -1,0 +1,5 @@
+#!/bin/env bash
+
+./analyze2step &
+./mem.bash &
+./mem2.bash &
