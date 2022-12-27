@@ -3,37 +3,44 @@
 NUMBER=1
 STATE='+'
 
+generatorPID=$(head -n 1 "pipe")
+
 (tail -f pipe) |
 while true; do
 	read LINE
 	case "$LINE" in
 		"QUIT")
-			echo "end handler with QUIT"
-	 		killall tail
-			exit 0
+			echo "end with QUIT"
+			break
 			;;
 		'+')
 			STATE='+'
 			;;
+		'-')
+			STATE='-'
+			;;
 		'*')
 			STATE='*'
 			;;
+		'/')
+			STATE='/'
+			;;
+		'0')
+			if [[ "$STATE" == '/' ]];then 
+				echo "cannot divide by zero!"
+				echo "enter another number:"
+			fi
+			;;
 		[0-9]*)
-			case $STATE in
-				'+')
-					NUMBER=$(echo "${NUMBER} + ${LINE}" | bc)
-					echo $NUMBER
-					;;
-				'*')
-					NUMBER=$(echo "${NUMBER} * ${LINE}" | bc)
-					echo $NUMBER
-					;;
-			esac
+			NUMBER=$(echo "scale=5; ${NUMBER} $STATE ${LINE}" | bc)
+			echo $NUMBER
 			;;
 		*)
-			echo "end handler because of invalid input"
-			killall tail
-			exit 1
+			echo "end because of invalid input"
+			break
 			;;		
 	esac
 done
+
+kill $generatorPID
+exit
