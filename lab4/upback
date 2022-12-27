@@ -1,0 +1,20 @@
+#!/bin/bash 
+
+restoreDirectory="$HOME/restore"
+if [ ! -d "$restoreDirectory" ]; then 
+	mkdir $restoreDirectory
+fi 
+
+backupDirectory=$HOME/$(ls $HOME | 
+			grep "Backup-" | 
+			sort | 
+			tail -n 1
+			)
+
+for currFile in $(ls $backupDirectory); do
+	if [[ -z "$(echo $currFile | 
+		grep -E "*.[0-9]{4}-[0-9]{2}-[0-9]{2}")" 
+	]]; then
+		cp "$backupDirectory/$currFile" "$restoreDirectory/$currFile"
+	fi
+done 
