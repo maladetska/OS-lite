@@ -1,0 +1,171 @@
+vladislavik03@LAPTOP-IG7OVROD:~/Maladetska/2experiment$ dmesg | grep "newmem.bash"
+[34139.565433] [  16457]  1000 16457   208438   160216  1712128    46137             0 newmem.bash
+[34139.565435] [  16462]  1000 16462   223552   171697  1835008    49745             0 newmem.bash
+[34139.565437] [  16465]  1000 16465   216391   164958  1769472    49325             0 newmem.bash
+[34139.565439] [  16466]  1000 16466   199528   149679  1634304    47741             0 newmem.bash
+[34139.565440] [  16467]  1000 16467   226093   172989  1847296    50994             0 newmem.bash
+[34139.565442] [  16468]  1000 16468   222496   170997  1818624    49410             0 newmem.bash
+[34139.565444] [  16469]  1000 16469   215665   165101  1761280    48454             0 newmem.bash
+[34139.565446] [  16470]  1000 16470   202135   151045  1658880    48981             0 newmem.bash
+[34139.565448] [  16471]  1000 16471   216721   164281  1765376    50360             0 newmem.bash
+[34139.565450] [  16472]  1000 16472   211078   163859  1732608    45114             0 newmem.bash
+[34139.565452] [  16473]  1000 16473   218272   162742  1785856    53425             0 newmem.bash
+[34139.565454] [  16475]  1000 16475   213058   163032  1744896    47923             0 newmem.bash
+[34139.565455] [  16476]  1000 16476   207712   151491  1703936    54121             0 newmem.bash
+[34139.565457] [  16477]  1000 16477   211837   162063  1744896    47665             0 newmem.bash
+[34139.565459] [  16478]  1000 16478   212596   162717  1740800    47801             0 newmem.bash
+[34139.565461] [  16480]  1000 16480   217711   166830  1781760    48786             0 newmem.bash
+[34139.565463] [  16482]  1000 16482   217711   165897  1781760    49711             0 newmem.bash
+[34139.565465] [  16484]  1000 16484   226291   176196  1847296    47985             0 newmem.bash
+[34139.565467] [  16486]  1000 16486   229063   178432  1875968    48552             0 newmem.bash
+[34139.565475] oom-kill:constraint=CONSTRAINT_NONE,nodemask=(null),cpuset=/,mems_allowed=0,global_oom,task_memcg=/,task=newmem.bash,pid=16486,uid=1000
+[34139.565501] Out of memory: Killed process 16486 (newmem.bash) total-vm:916252kB, anon-rss:713728kB, file-rss:0kB, shmem-rss:0kB, UID:1000 pgtables:1832kB oom_score_adj:0
+[34139.663635] oom_reaper: reaped process 16486 (newmem.bash), now anon-rss:0kB, file-rss:0kB, shmem-rss:0kB
+[34147.810430] [  16457]  1000 16457   221011   166229  1814528    52690             0 newmem.bash
+[34147.810431] [  16462]  1000 16462   234343   181043  1921024    51193             0 newmem.bash
+[34147.810433] [  16465]  1000 16465   232594   181144  1904640    49361             0 newmem.bash
+[34147.810434] [  16466]  1000 16466   209758   155288  1716224    52384             0 newmem.bash
+[34147.810435] [  16467]  1000 16467   240547   183050  1966080    55402             0 newmem.bash
+[34147.810437] [  16468]  1000 16468   236587   177999  1933312    56487             0 newmem.bash
+[34147.810439] [  16469]  1000 16469   226720   174523  1851392    50100             0 newmem.bash
+[34147.810441] [  16470]  1000 16470   214675   163312  1761280    49274             0 newmem.bash
+[34147.810443] [  16471]  1000 16471   234838   181329  1912832    51410             0 newmem.bash
+[34147.810445] [  16472]  1000 16472   223651   173082  1835008    48463             0 newmem.bash
+[34147.810448] [  16473]  1000 16473   229492   172242  1875968    55143             0 newmem.bash
+[34147.810449] [  16475]  1000 16475   229525   179257  1875968    48171             0 newmem.bash
+[34147.810467] [  16476]  1000 16476   221308   163233  1810432    55986             0 newmem.bash
+[34147.810470] [  16477]  1000 16477   221836   170507  1822720    49230             0 newmem.bash
+[34147.810471] [  16478]  1000 16478   223024   167922  1826816    52998             0 newmem.bash
+[34147.810473] [  16480]  1000 16480   228304   177398  1867776    48799             0 newmem.bash
+[34147.810474] [  16482]  1000 16482   229921   173324  1880064    54487             0 newmem.bash
+[34147.810476] [  16484]  1000 16484   236983   184112  1933312    50769             0 newmem.bash
+[34147.810482] oom-kill:constraint=CONSTRAINT_NONE,nodemask=(null),cpuset=docker,mems_allowed=0,global_oom,task_memcg=/,task=newmem.bash,pid=16467,uid=1000
+[34147.811228] Out of memory: Killed process 16467 (newmem.bash) total-vm:962188kB, anon-rss:732200kB, file-rss:0kB, shmem-rss:0kB, UID:1000 pgtables:1920kB oom_score_adj:0
+[34147.862715] oom_reaper: reaped process 16467 (newmem.bash), now anon-rss:0kB, file-rss:0kB, shmem-rss:0kB
+[34157.579107] [  16457]  1000 16457   233584   175400  1912832    56078             0 newmem.bash
+[34157.579109] [  16462]  1000 16462   251437   190945  2056192    58401             0 newmem.bash
+[34157.579110] [  16465]  1000 16465   247378   192646  2019328    52639             0 newmem.bash
+[34157.579112] [  16466]  1000 16466   223288   166304  1822720    54899             0 newmem.bash
+[34157.579113] [  16468]  1000 16468   252559   191048  2060288    59427             0 newmem.bash
+[34157.579115] [  16469]  1000 16469   241108   185116  1966080    53882             0 newmem.bash
+[34157.579116] [  16470]  1000 16470   228238   174386  1871872    51766             0 newmem.bash
+[34157.579118] [  16471]  1000 16471   248500   192156  2023424    54249             0 newmem.bash
+[34157.579120] [  16472]  1000 16472   237181   184864  1941504    50235             0 newmem.bash
+[34157.579121] [  16473]  1000 16473   243913   182308  1990656    59512             0 newmem.bash
+[34157.579123] [  16475]  1000 16475   241669   188931  1974272    50650             0 newmem.bash
+[34157.579124] [  16476]  1000 16476   234112   174015  1912832    58006             0 newmem.bash
+[34157.579126] [  16477]  1000 16477   235366   181512  1933312    51748             0 newmem.bash
+[34157.579127] [  16478]  1000 16478   236323   175254  1933312    58966             0 newmem.bash
+[34157.579128] [  16480]  1000 16480   242560   189137  1982464    51336             0 newmem.bash
+[34157.579130] [  16482]  1000 16482   243187   184167  1986560    56934             0 newmem.bash
+[34157.579132] [  16484]  1000 16484   250975   195542  2048000    53353             0 newmem.bash
+[34157.579140] oom-kill:constraint=CONSTRAINT_NONE,nodemask=(null),cpuset=/,mems_allowed=0,global_oom,task_memcg=/,task=newmem.bash,pid=16468,uid=1000
+[34157.579175] Out of memory: Killed process 16468 (newmem.bash) total-vm:1010236kB, anon-rss:764192kB, file-rss:0kB, shmem-rss:0kB, UID:1000 pgtables:2012kB oom_score_adj:0
+[34157.660000] oom_reaper: reaped process 16468 (newmem.bash), now anon-rss:0kB, file-rss:0kB, shmem-rss:0kB
+[34165.095239] [  16457]  1000 16457   246025   184705  2015232    59208             0 newmem.bash
+[34165.095240] [  16462]  1000 16462   268762   203356  2195456    63292             0 newmem.bash
+[34165.095254] [  16465]  1000 16465   260908   202290  2129920    56486             0 newmem.bash
+[34165.095256] [  16466]  1000 16466   238534   178142  1945600    58251             0 newmem.bash
+[34165.095257] [  16469]  1000 16469   258235   198689  2105344    57428             0 newmem.bash
+[34165.095258] [  16470]  1000 16470   240976   183863  1974272    54975             0 newmem.bash
+[34165.095260] [  16471]  1000 16471   261799   201552  2129920    58138             0 newmem.bash
+[34165.095261] [  16472]  1000 16472   252427   197103  2064384    53230             0 newmem.bash
+[34165.095263] [  16473]  1000 16473   258598   193149  2113536    63306             0 newmem.bash
+[34165.095264] [  16475]  1000 16475   262030   205170  2138112    54733             0 newmem.bash
+[34165.095265] [  16476]  1000 16476   250843   186819  2048000    61893             0 newmem.bash
+[34165.095267] [  16477]  1000 16477   247444   189924  2027520    55386             0 newmem.bash
+[34165.095268] [  16478]  1000 16478   252229   187078  2060288    63033             0 newmem.bash
+[34165.095270] [  16480]  1000 16480   259126   201692  2113536    55307             0 newmem.bash
+[34165.095271] [  16482]  1000 16482   258499   196050  2105344    60338             0 newmem.bash
+[34165.095273] [  16484]  1000 16484   273811   214402  2232320    57293             0 newmem.bash
+[34165.095277] oom-kill:constraint=CONSTRAINT_NONE,nodemask=(null),cpuset=docker,mems_allowed=0,global_oom,task_memcg=/,task=newmem.bash,pid=16484,uid=1000
+[34165.095299] Out of memory: Killed process 16484 (newmem.bash) total-vm:1095244kB, anon-rss:857608kB, file-rss:0kB, shmem-rss:0kB, UID:1000 pgtables:2180kB oom_score_adj:0
+[34165.167293] oom_reaper: reaped process 16484 (newmem.bash), now anon-rss:0kB, file-rss:0kB, shmem-rss:0kB
+[34173.745529] newmem.bash invoked oom-killer: gfp_mask=0x100dca(GFP_HIGHUSER_MOVABLE|__GFP_ZERO), order=0, oom_score_adj=0
+[34173.745535] CPU: 2 PID: 16482 Comm: newmem.bash Not tainted 5.10.16.3-microsoft-standard-WSL2 #1
+[34173.773266] [  16457]  1000 16457   262921   198026  2150400    62751             0 newmem.bash
+[34173.773268] [  16462]  1000 16462   288034   215766  2351104    70122             0 newmem.bash
+[34173.773269] [  16465]  1000 16465   280345   216467  2285568    61732             0 newmem.bash
+[34173.773271] [  16466]  1000 16466   256189   191866  2084864    62183             0 newmem.bash
+[34173.773273] [  16469]  1000 16469   276583   213580  2252800    60856             0 newmem.bash
+[34173.773274] [  16470]  1000 16470   259819   199475  2125824    58208             0 newmem.bash
+[34173.773275] [  16471]  1000 16471   277540   214371  2252800    61063             0 newmem.bash
+[34173.773277] [  16472]  1000 16472   268300   209423  2191360    56723             0 newmem.bash
+[34173.773278] [  16473]  1000 16473   279223   208634  2277376    68505             0 newmem.bash
+[34173.773295] [  16475]  1000 16475   278629   219132  2269184    57364             0 newmem.bash
+[34173.773298] [  16476]  1000 16476   272821   205622  2224128    65097             0 newmem.bash
+[34173.773299] [  16477]  1000 16477   265990   205476  2174976    58412             0 newmem.bash
+[34173.773301] [  16478]  1000 16478   269059   199931  2191360    66970             0 newmem.bash
+[34173.773303] [  16480]  1000 16480   278497   217301  2269184    59052             0 newmem.bash
+[34173.773304] [  16482]  1000 16482   274801   209345  2236416    63314             0 newmem.bash
+[34173.773315] oom-kill:constraint=CONSTRAINT_NONE,nodemask=(null),cpuset=/,mems_allowed=0,global_oom,task_memcg=/,task=newmem.bash,pid=16462,uid=1000
+[34173.773328] Out of memory: Killed process 16462 (newmem.bash) total-vm:1152136kB, anon-rss:863060kB, file-rss:4kB, shmem-rss:0kB, UID:1000 pgtables:2296kB oom_score_adj:0
+[34176.013920] oom_reaper: reaped process 16462 (newmem.bash), now anon-rss:0kB, file-rss:0kB, shmem-rss:0kB
+[34182.643788] newmem.bash invoked oom-killer: gfp_mask=0x100cca(GFP_HIGHUSER_MOVABLE), order=0, oom_score_adj=0
+[34182.643798] CPU: 1 PID: 16478 Comm: newmem.bash Not tainted 5.10.16.3-microsoft-standard-WSL2 #1
+[34182.645362] [  16457]  1000 16457   281104   211345  2293760    67653             0 newmem.bash
+[34182.645365] [  16465]  1000 16465   301498   232647  2453504    66770             0 newmem.bash
+[34182.645368] [  16466]  1000 16466   272986   204357  2220032    66522             0 newmem.bash
+[34182.645372] [  16469]  1000 16469   294502   224979  2396160    67442             0 newmem.bash
+[34182.645405] [  16470]  1000 16470   278464   213677  2273280    62709             0 newmem.bash
+[34182.645409] [  16471]  1000 16471   293941   226632  2383872    65201             0 newmem.bash
+[34182.645412] [  16472]  1000 16472   285559   222968  2330624    60512             0 newmem.bash
+[34182.645415] [  16473]  1000 16473   302158   226339  2461696    73728             0 newmem.bash
+[34182.645417] [  16475]  1000 16475   303478   238716  2465792    62627             0 newmem.bash
+[34182.645420] [  16476]  1000 16476   293578   219222  2392064    72269             0 newmem.bash
+[34182.645423] [  16477]  1000 16477   285328   220262  2330624    62987             0 newmem.bash
+[34182.645426] [  16478]  1000 16478   288991   215403  2351104    71489             0 newmem.bash
+[34182.645448] [  16480]  1000 16480   309319   243212  2514944    63998             0 newmem.bash
+[34182.645452] [  16482]  1000 16482   295525   225096  2404352    68324             0 newmem.bash
+[34182.645468] oom-kill:constraint=CONSTRAINT_NONE,nodemask=(null),cpuset=/,mems_allowed=0,global_oom,task_memcg=/,task=newmem.bash,pid=16480,uid=1000
+[34182.645490] Out of memory: Killed process 16480 (newmem.bash) total-vm:1237276kB, anon-rss:972848kB, file-rss:0kB, shmem-rss:0kB, UID:1000 pgtables:2456kB oom_score_adj:0
+[34184.935970] oom_reaper: reaped process 16480 (newmem.bash), now anon-rss:0kB, file-rss:0kB, shmem-rss:0kB
+[34193.561711] newmem.bash invoked oom-killer: gfp_mask=0x100cca(GFP_HIGHUSER_MOVABLE), order=0, oom_score_adj=0
+[34193.561725] CPU: 1 PID: 16465 Comm: newmem.bash Not tainted 5.10.16.3-microsoft-standard-WSL2 #1
+[34193.562493] [  16457]  1000 16457   306250   231764  2494464    72404             0 newmem.bash
+[34193.562495] [  16465]  1000 16465   327172   252493  2658304    72585             0 newmem.bash
+[34193.562496] [  16466]  1000 16466   301564   228382  2449408    71099             0 newmem.bash
+[34193.562497] [  16469]  1000 16469   316843   241978  2572288    72769             0 newmem.bash
+[34193.562499] [  16470]  1000 16470   295756   226123  2412544    67555             0 newmem.bash
+[34193.562500] [  16471]  1000 16471   319978   247731  2592768    70167             0 newmem.bash
+[34193.562502] [  16472]  1000 16472   308824   241521  2514944    65225             0 newmem.bash
+[34193.562503] [  16473]  1000 16473   322090   239137  2621440    80851             0 newmem.bash
+[34193.562505] [  16475]  1000 16475   328294   258964  2666496    67229             0 newmem.bash
+[34193.562507] [  16476]  1000 16476   320770   240190  2609152    78503             0 newmem.bash
+[34193.562508] [  16477]  1000 16477   309550   239736  2531328    67709             0 newmem.bash
+[34193.562509] [  16478]  1000 16478   309154   231249  2514944    75817             0 newmem.bash
+[34193.562518] [  16482]  1000 16482   317668   242128  2584576    73437             0 newmem.bash
+[34193.562523] oom-kill:constraint=CONSTRAINT_NONE,nodemask=(null),cpuset=/,mems_allowed=0,global_oom,task_memcg=/,task=newmem.bash,pid=16475,uid=1000
+[34193.562536] Out of memory: Killed process 16475 (newmem.bash) total-vm:1313176kB, anon-rss:1035856kB, file-rss:0kB, shmem-rss:0kB, UID:1000 pgtables:2604kB oom_score_adj:0
+[34195.493871] oom_reaper: reaped process 16475 (newmem.bash), now anon-rss:0kB, file-rss:0kB, shmem-rss:0kB
+[34204.699964] newmem.bash invoked oom-killer: gfp_mask=0x100dca(GFP_HIGHUSER_MOVABLE|__GFP_ZERO), order=0, oom_score_adj=0
+[34204.699970] CPU: 0 PID: 16472 Comm: newmem.bash Not tainted 5.10.16.3-microsoft-standard-WSL2 #1
+[34204.700903] [  16457]  1000 16457   334762   252568  2723840    80060             0 newmem.bash
+[34204.700905] [  16465]  1000 16465   354991   274869  2883584    77996             0 newmem.bash
+[34204.700906] [  16466]  1000 16466   324334   245752  2629632    76444             0 newmem.bash
+[34204.700907] [  16469]  1000 16469   345619   265485  2801664    78018             0 newmem.bash
+[34204.700909] [  16470]  1000 16470   325621   251042  2650112    72458             0 newmem.bash
+[34204.700910] [  16471]  1000 16471   346906   269103  2809856    75693             0 newmem.bash
+[34204.700912] [  16472]  1000 16472   336313   263139  2740224    71031             0 newmem.bash
+[34204.700913] [  16473]  1000 16473   347896   259371  2826240    86401             0 newmem.bash
+[34204.700915] [  16476]  1000 16476   346213   259412  2809856    84701             0 newmem.bash
+[34204.700917] [  16477]  1000 16477   333343   257149  2719744    74086             0 newmem.bash
+[34204.700931] [  16478]  1000 16478   338557   255415  2748416    81018             0 newmem.bash
+[34204.700934] [  16482]  1000 16482   347038   265590  2818048    79311             0 newmem.bash
+[34204.700939] oom-kill:constraint=CONSTRAINT_NONE,nodemask=(null),cpuset=/,mems_allowed=0,global_oom,task_memcg=/,task=newmem.bash,pid=16465,uid=1000
+[34204.700950] Out of memory: Killed process 16465 (newmem.bash) total-vm:1419964kB, anon-rss:1099472kB, file-rss:4kB, shmem-rss:0kB, UID:1000 pgtables:2816kB oom_score_adj:0
+[34206.642657] oom_reaper: reaped process 16465 (newmem.bash), now anon-rss:0kB, file-rss:0kB, shmem-rss:0kB
+[34220.885511] [  16457]  1000 16457   362383   274007  2949120    86290             0 newmem.bash
+[34220.885513] [  16466]  1000 16466   350932   265548  2846720    83275             0 newmem.bash
+[34220.885515] [  16469]  1000 16469   377299   286921  3059712    88276             0 newmem.bash
+[34220.885517] [  16470]  1000 16470   357961   276446  2908160    79433             0 newmem.bash
+[34220.885519] [  16471]  1000 16471   376276   291533  3043328    82634             0 newmem.bash
+[34220.885520] [  16472]  1000 16472   366937   287280  2985984    77551             0 newmem.bash
+[34220.885522] [  16473]  1000 16473   387859   291698  3145728    94062             0 newmem.bash
+[34220.885523] [  16476]  1000 16476   376078   283299  3051520    90698             0 newmem.bash
+[34220.885525] [  16477]  1000 16477   362878   282505  2957312    78266             0 newmem.bash
+[34220.885527] [  16478]  1000 16478   380830   288822  3088384    89924             0 newmem.bash
+[34220.885529] [  16482]  1000 16482   379081   291921  3076096    85054             0 newmem.bash
+[34220.885541] oom-kill:constraint=CONSTRAINT_NONE,nodemask=(null),cpuset=/,mems_allowed=0,global_oom,task_memcg=/,task=newmem.bash,pid=16473,uid=1000
+[34220.885554] Out of memory: Killed process 16473 (newmem.bash) total-vm:1551436kB, anon-rss:1166792kB, file-rss:0kB, shmem-rss:0kB, UID:1000 pgtables:3072kB oom_score_adj:0
+[34221.085713] oom_reaper: reaped process 16473 (newmem.bash), now anon-rss:0kB, file-rss:0kB, shmem-rss:0kB
