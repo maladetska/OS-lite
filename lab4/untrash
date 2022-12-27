@@ -1,0 +1,50 @@
+#!/bin/bash
+
+if [ $# != 1 ]; then
+	>&2 echo "Incorrect count of args"
+	exit 1
+fi 
+
+file=$1
+trashPath="$HOME/trash"
+trashLog="$HOME/.trash.log"
+
+if [ ! -d "$trashPath" ]; then
+    	>&2 echo "$trashPath doesn't exist"
+	exit 1
+fi
+
+if [ ! -f "$trashLog" ]; then
+    	>&2 echo "$trashLog doesn't exist"
+	exit 1
+fi
+
+newName=""
+grep $file $trashLog |
+while read line; do
+	hashPath=$(echo $line | awk '{ print $1 }')
+	filePath=$(echo $line | awk '{ print $2 }')
+
+	echo "Restore $file? [Y/N]"
+	read userAnswer < /dev/tty
+	if [[ $userAnswer =~ ^[Yy]$ ]]; then
+		trashPathForCurrFile="$trashPath/"$hashPath""
+		
+		if [[ -f "$trashPathForCurrFile" ]]; then 
+			if [[ -d $(dirname $filePath) ]]; then 
+				while [[ -f "$filePath" ]]; do
+					echo "Please change name of the file"
+					read filePath < /dev/tty
+				done
+				ln $trashPathForCurrFile $filePath
+			else
+				ln $trashPathForCurrFile ~/$file
+				echo "$file was restore at home directory"
+			fi 
+			rm "$trashPathForCurrFile"
+		else 
+			echo "$file doesn't exist in trash"
+		fi
+		sed -i "/$hashPath/d" "$trashLog"
+	fi
+done
