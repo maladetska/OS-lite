@@ -1,0 +1,32 @@
+#!/bin/bash
+
+if [ $# != 1 ]; then
+	>&2 echo "Incorrect count of args"
+	exit 1
+fi 
+
+file=$1
+trashPath="$HOME/trash"
+trashLog="$HOME/.trash.log"
+filePath="$PWD/"$file""
+	
+if [ ! -d "$trashPath" ]; then
+    	if [ -f "$trashPath" ]; then
+    		>&2 echo "'$trashPath' isn't a directory"
+		exit 1
+	fi
+	mkdir "$trashPath"
+fi
+	
+if [ ! -f "$file" ]; then
+	>&2 echo "'$file' not found"
+	exit 1
+fi
+	
+hash=$(date '+%s')
+	
+ln $file $trashPath/$hash
+rm "$file"
+echo "$hash $filePath" >> "$trashLog"
+
+
