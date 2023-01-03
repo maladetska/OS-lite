@@ -1,0 +1,7 @@
+#!/bin/bash
+
+for (( i=0; i<1001; i++ )); do
+	for (( j=0; j<501; j++ )); do		
+		result=$(($j+$i+$j*$i))
+	done 
+done 

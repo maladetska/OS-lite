@@ -1,0 +1,50 @@
+#!/bin/bash
+
+experiment=$1
+mode=$2
+processors=$3
+num=$4
+
+path=logs/$experiment
+algo=$path/algo
+
+case $experiment in
+	"1experiment" ) 
+		case $mode in
+		"seq" )
+			for (( i=0; i<$num; i++ )); do	
+				bash $algo	
+			done
+			;;
+		"parallel" )
+			for (( i=0; i<$num; i++ )); do	
+				bash $algo &
+			done
+			
+			./pause
+			;;
+		esac
+		;;
+	"2experiment" )
+		for (( i=0; i<$num; i++ ));  do
+			path2=$path/$processors/$mode/files/file$i
+			: > $path2
+			
+			theNumber=1
+			echo $theNumber$theNumber$theNumber >> $path2
+		
+			case $mode in
+			"seq" )
+				bash $algo "$path2"
+				;;
+			"parallel" )
+				bash $algo "$path2" &	
+				;;
+			esac
+		done
+		if [ "$mode" == "parallel" ]; then
+			./pause
+		fi
+		;;
+esac
+	

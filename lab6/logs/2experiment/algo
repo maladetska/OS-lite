@@ -1,0 +1,10 @@
+#!/bin/bash
+
+file=$1
+
+for (( i=0; i<1000; i++ )); do
+	read num < $file
+	num=$num$((2 * $num))
+	echo $num > $file
+done 
+

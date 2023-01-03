@@ -1,0 +1,19 @@
+#!/bin/bash
+
+experiment=$1
+mode=$2
+processors=$3
+
+pathTime=logs/$experiment/$processors/$mode/time.log
+pathReal=logs/$experiment/$processors/$mode/real.log
+
+for (( i=1; i<21; i++ )); do
+	exec 2>$pathTime
+	for (( j=0; j<5; j++ )); do
+		time -p ./launch $experiment $mode $processors $i 
+	done
+	echo $(grep "real" $pathTime | awk '{print $2}') >> $pathReal
+	echo "" > $pathTime
+done
+
+rm $pathTime

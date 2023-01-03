@@ -1,0 +1,8 @@
+#!/bin/bash
+
+
+temp=$(ps r | grep "algo")
+while [ -n "$temp" ]; do
+	sleep 0.2
+	temp=$(ps r | grep "algo")
+done
